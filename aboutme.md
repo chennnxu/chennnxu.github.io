@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 My name is Chen Xu. I am now a master student in RWTH Aachen Unversity. 
-
+img: "/assets/img/my_profile_figure.jpeg"
 
 What else do you need?
 
