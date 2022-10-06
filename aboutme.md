@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Chen Xu. I am now a master student in RWTH Aachen Unversity. 
+My name is Chen Xu. I am now a master student in RWTH Aachen University. 
 
 ![avatar](/assets/img/my_profile_figure.jpeg)
 
