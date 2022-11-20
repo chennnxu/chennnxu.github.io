@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Core Data is My Boyfriend Part 1
-subtitle: Draft
+title: Core Data is My Boyfriend
+subtitle: Part 1 (Draft)
 tags: [iOS development, framework, core data]
 comments: true
 ---
