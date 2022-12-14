@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Core Data is My "Boyfriend"
+title: Core Data
 subtitle: Part 1 Foundations
 tags: [iOS development, framework, core data]
 comments: true
