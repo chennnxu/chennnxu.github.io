@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Cool girl(¬◡¬)✧
 ---
-[comment:] # Why you'd want to go on a date with me
+[comment:] # (Why you'd want to go on a date with me)
 Motto: **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
 
 My name is Chen Xu. I am a Developer, a teacher, a lifelong learner ...
