@@ -1,10 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Cool girl;) [comment:] # Why you'd want to go on a date with me
 ---
 
-My name is Chen Xu. I am now a master student in RWTH Aachen University. 
+Motto: The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault
+
+My name is Chen Xu. I am a Developer, a teacher, a lifelong learner ...
+I am now a master student in RWTH Aachen University. 
 
 ![avatar](/assets/img/my_profile_figure.jpeg)
 
