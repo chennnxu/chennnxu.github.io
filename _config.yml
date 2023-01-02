@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Books: "https://book.douban.com/"
+    - Tools: "tools"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
