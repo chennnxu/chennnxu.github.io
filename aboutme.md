@@ -8,7 +8,7 @@ subtitle: Cool girl 很酷,不聊天
 -->
 Motto: **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
 
-My name is Chen Xu. I am a Developer, a teacher, a lifelong learner ...
+My name is Chen Xu. I am a Developer, a Computer Science Educator, a lifelong learner ...
 I am now a master student in RWTH Aachen University. 
 
 ![avatar](/assets/img/my_profile_figure.jpeg)
