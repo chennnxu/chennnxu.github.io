@@ -11,7 +11,7 @@ subtitle: Cool girl 很酷,不聊天
 My name is Chen Xu. I am a Developer, a Computer Science Educator, a lifelong learner ...
 I am now a master student in RWTH Aachen University. 
 
-![avatar](/assets/img/my_profile_figure.jpeg width="60%")
+![avatar](/assets/img/my_profile_figure.jpeg =100x)
 
 What else do you need?
 
