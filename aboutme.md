@@ -6,12 +6,12 @@ subtitle: Cool girl 很酷,不聊天
 <!---
 ![comment:] # (Why you'd want to go on a date with me)
 -->
-Motto: **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
+> Motto: **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
 
 My name is Chen Xu. I am a Developer, a Computer Science Educator, a lifelong learner ...
 I am now a master student in RWTH Aachen University. 
 
-![avatar](/assets/img/my_profile_figure.jpeg)
+![avatar](/assets/img/my_profile_figure.jpeg width="60%")
 
 What else do you need?
 
