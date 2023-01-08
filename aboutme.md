@@ -13,6 +13,8 @@ I am now a master student in RWTH Aachen University.
 
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
 
+<img src="/assets/img/my_profile_figure.jpeg" width = "200" alt="profile" align=center />
+
 What else do you need?
 
 ### My story
