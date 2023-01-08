@@ -10,11 +10,12 @@ subtitle: Cool girl 很酷,不聊天
 
 My name is Chen Xu. I am a Developer, a Computer Science Educator, a lifelong learner ...
 I am now a master student in RWTH Aachen University. 
-
+<! ---
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
-
-<img src="/assets/img/my_profile_figure.jpeg" width = "200" alt="profile" align=center />
-
+-->
+<div align = "center">
+<img src="/assets/img/my_profile_figure.jpeg" width = "500" alt="profile" align=center />
+</div>
 What else do you need?
 
 ### My story
