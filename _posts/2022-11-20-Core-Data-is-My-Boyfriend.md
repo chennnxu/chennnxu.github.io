@@ -57,6 +57,7 @@ The first thing if you remember is that when we choose a template create a new p
 
 ## Stay Tuned on Part 2 ;)
 
+
 # Reference
 
 [1] Zarra, M. (2016). Core Data in Swift: Data Storage and Management for IOS and OS X. *Core Data in Swift*, 1-214.
