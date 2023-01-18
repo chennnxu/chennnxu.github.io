@@ -21,6 +21,8 @@ author: CHEN
 
 navbar-links:
   About Me: "aboutme"
+  DEV: "tools"
+  ML: "tools"
   Resources:
     - Books: "https://book.douban.com/"
     - Tools: "tools"
