@@ -8,7 +8,7 @@ subtitle: Cool girl 很酷,不聊天
 -->
 > Motto: **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
 
-I am a Developer, a Computer Science Educator, a lifelong learner ...
+I am a Developer, a Data scientist, a Computer science educator, a lifelong learner ...
 
 <!---
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
