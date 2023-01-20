@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Cool girl 很酷,不聊天
+subtitle: 很酷,不聊天
 ---
 <!---
 ![comment:] # (Why you'd want to go on a date with me)
