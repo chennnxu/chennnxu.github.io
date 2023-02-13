@@ -21,8 +21,8 @@ author: CHEN
 
 navbar-links:
   About Me: "aboutme"
-  DEV: "tools"
-  ML: "tools"
+  DEV: "dev"
+  ML: "ml"
   Resources:
     - Books: "https://book.douban.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
