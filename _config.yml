@@ -23,7 +23,6 @@ navbar-links:
   About Me: "aboutme"
   DEV: "dev"
   ML: "ml"
-  Portfolio: "portfolio"
   Resources:
     - Books: "https://book.douban.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
