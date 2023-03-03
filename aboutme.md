@@ -8,8 +8,6 @@ subtitle: 很酷,不聊天
 -->
 > Motto: 
 > **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
-> 
->  路漫漫其修远兮，吾将上下而求索。- 屈原《离骚》
 
 I am a Developer, a Data scientist, a Computer science educator, a lifelong learner ...
 
