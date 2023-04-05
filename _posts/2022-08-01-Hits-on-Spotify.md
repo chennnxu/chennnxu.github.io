@@ -5,6 +5,9 @@ subtitle: Anatomy of Tracks, Artists and Streams
 tags: [project, data analysis]
 comments: true
 ---
-<font color=gray>This is the final work of my Master project in RWTH Aachen University.</font>     
+
+Music is a universal language and a favorite leisure activity for many of us. However, have you ever wondered why only a tiny fraction of songs make it to the top of Spotify's global ranking list, while millions of songs are available on the platform? This is where the power of data comes in. In the study, I investigated the properties of hit songs and artists, as well as streaming patterns of hit songs on Spotify. I collected data through a two-process method and analyzed hit songs, hit artists, and stream dynamics. The findings provide interesting insights into the characteristics of hit songs, such as the fact that the majority of them only appear on the list once. Additionally, patterns that distinguish productive artists from those with only one hit song. Understanding the dynamics of streams on Spotify can help us to better appreciate the power of data and the factors that contribute to a song becoming a hit. In this blog, I share the study's findings and explore the fascinating world of music hits analysis on Spotify.
+
+<font color=gray>This is the final work of my Master project in RWTH Aachen University.</font>
 
 <iframe src="/assets/final_report_master_project.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
