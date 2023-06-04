@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Topic Modeling of PyConDe & PyData Berlin 2023 Sessions 
-subtitle: A record of an amazing jorney
-# cover-img: /assets/img/core-data.jpg
+subtitle: A record of an amazing journey
+cover-img: /assets/img/berlin.jpg
 tags: [NLP, Conference]
 comments: true
 ---
