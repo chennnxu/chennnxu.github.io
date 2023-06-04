@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Journey to PyConDe & PyData Berlin 2023
-subtitle: Topic Modeling of Sessions
+title:  PyConDe & PyData Berlin 2023
+subtitle: A Pythonic Journey & Sessions Topic Modeling
 cover-img: /assets/img/berlin.jpg
 tags: [Conference, NLP]
 comments: true
