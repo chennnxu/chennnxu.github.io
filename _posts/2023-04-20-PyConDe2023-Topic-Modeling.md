@@ -57,7 +57,11 @@ General: Infrastructure - Hardware & Cloud                          1
 
 ### Step 1 Data Analysis
 
-I start the process by breaking down the session abstracts into tokens. From the tokens, I build a dictionary that gives each token a unique ID, which then be used to create the Bag of Words representing the frequency of the tokens. The dictionary and the BoW are used as the inputs of the spaCy pipeline to build a range of topics. The last step is to find the distribution of topics of each session. Here is the [Github full notebook](pyconde_analysis.ipynb).
+I start the process by breaking down the session abstracts into tokens. From the tokens, I build a dictionary that gives each token a unique ID, which then be used to create the Bag of Words representing the frequency of the tokens. The dictionary and the BoW are used as the inputs of the spaCy pipeline to build a range of topics. The last step is to find the distribution of topics of each session. Here is the [Github full notebook](https://github.com/chennnxu/pyconde2023_analysisforfun/blob/37c5a8607a8cc9293d5b730962ea18adec5723cb/pyconde_analysis.ipynb).
+
+<div align = "center">
+<img src="/assets/img/pyconde2023/pipeline.svg" width = "500" alt="pipeline" align=center />
+</div>
 
 ### Step 2 Results and Discussion
 
