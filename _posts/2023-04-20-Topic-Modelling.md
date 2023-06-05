@@ -3,7 +3,7 @@ layout: post
 title:  PyConDe & PyData Berlin 2023
 subtitle: A Pythonic Journey & Sessions Topic Modeling(Draft)
 cover-img: /assets/img/berlin.jpg
-tags: [Conference, NLP]
+tags: [Conference, NLP, spaCy]
 comments: true
 ---
 
@@ -13,13 +13,11 @@ As a first-time attendee of such a great conference, I would say I am so lucky t
 After back from the event, I think why not using the new things you learned from the conference to make a summary of it. I am going to use spaCy to do topic modelling for all the session in PyConDe & PyData Berlin 2023.
 
 
-<!-- ![](1.png)
-![](2.png)
-![](3.png)
-![](4.png) -->
-
 <div align = "center">
-<img src="/assets/img/pyconde2023/1.png" width = "500" alt="profile" align=center />
+<img src="/assets/img/pyconde2023/1.png" width = "400" alt="berlin" align=center />
+<img src="/assets/img/pyconde2023/2.png" width = "400" alt="berlin" align=center />
+<img src="/assets/img/pyconde2023/3.png" width = "400" alt="berlin" align=center />
+<img src="/assets/img/pyconde2023/4.png" width = "400" alt="berlin" align=center />
 </div>
 
 Topic modeling is an unsupervised machine learning technique that extract hidden topics from text. The algorithm I am going to use is LDA.
