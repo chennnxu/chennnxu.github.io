@@ -16,6 +16,8 @@ connect database: psql \c DBNAME
 quit database: \q
 get help: help or \?(press q) or psql --help
 list of databases: \l
+
+
 create database: CREATE DATABASE NAME;
 delete database: DROP DATABASE NAME;
 describe database/table: \d or \d table name or \dt(just table)
@@ -24,11 +26,13 @@ create table: CREATE TABLE table_name (
     ... 
 )
 drop table: DROP TABLE NAME;
+
 insert records into tables: INSERT INTO NAME (
     column name, ...
 )
 VALUES (value1, ...);
 select all: SELECT * FROM NAME;
+order by: ORDER BY column name (ASC/DESC);
 
 ```
 
