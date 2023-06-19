@@ -18,12 +18,18 @@ get help: help or \?(press q) or psql --help
 list of databases: \l
 create database: CREATE DATABASE NAME;
 delete database: DROP DATABASE NAME;
-describe database/table: \d or \d table name
+describe database/table: \d or \d table name or \dt(just table)
 create table: CREATE TABLE table_name (
     column name + data type + constraints if any,
     ... 
 )
 drop table: DROP TABLE NAME;
+insert records into tables: INSERT INTO NAME (
+    column name, ...
+)
+VALUES (value1, ...);
+select all: SELECT * FROM NAME;
+
 ```
 
 *Prefer use UPPERCASE syntax for SQL commands*
