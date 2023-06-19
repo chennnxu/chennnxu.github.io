@@ -11,7 +11,7 @@ For one project I am working on now about Software Heritage Graph Dataset, the d
 
 ### To be continued..
 
-···
+```
 connect datanase: psql \c DBNAME
 quit database: \q
 get help: help or \?(press q) or psql --help
@@ -19,6 +19,6 @@ list of databases: \l
 create database: CREATE DATABASE NAME;
 delete database: DROP DATABASE NAME;
 create table: 
-···
+```
 
-* Prefer use UPPERCASE syntax for SQL commands *
+*Prefer use UPPERCASE syntax for SQL commands*
