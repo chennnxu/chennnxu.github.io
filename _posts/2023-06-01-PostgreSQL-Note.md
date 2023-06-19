@@ -12,13 +12,18 @@ For one project I am working on now about Software Heritage Graph Dataset, the d
 ### To be continued..
 
 ```
-connect datanase: psql \c DBNAME
+connect database: psql \c DBNAME
 quit database: \q
 get help: help or \?(press q) or psql --help
 list of databases: \l
 create database: CREATE DATABASE NAME;
 delete database: DROP DATABASE NAME;
-create table: 
+describe database/table: \d or \d table name
+create table: CREATE TABLE table_name (
+    column name + data type + constraints if any,
+    ... 
+)
+drop table: DROP TABLE NAME;
 ```
 
 *Prefer use UPPERCASE syntax for SQL commands*
