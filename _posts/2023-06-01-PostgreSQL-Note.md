@@ -34,6 +34,8 @@ VALUES (value1, ...);
 select all: SELECT * FROM NAME;
 order by: ORDER BY column name (ASC/DESC);
 
+Copying a Query Result Set: COPY ([Query]) TO '[File Name]' DELIMITER ',' CSV HEADER;
+
 ```
 
 *Prefer use UPPERCASE syntax for SQL commands*
