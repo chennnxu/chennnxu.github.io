@@ -9,7 +9,8 @@ comments: true
 
 ## Introduction
 
- The research aims to create comprehensive city portraits by analyzing social event data obtained from the Eventbrite platform. 
+
+ The research aims to create a city portrait by analyzing social event data obtained from the Eventbrite platform. 
 
 
 
