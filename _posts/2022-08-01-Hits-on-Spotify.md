@@ -3,7 +3,7 @@ layout: post
 title: Hits on Spotify
 subtitle: Anatomy of Tracks, Artists and Streams
 cover-img: /assets/img/music.jpg
-tags: [project, data analysis]
+tags: [Project, Data Analysis]
 comments: true
 ---
 
