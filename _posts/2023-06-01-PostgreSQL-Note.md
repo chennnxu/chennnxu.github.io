@@ -7,7 +7,7 @@ tags: [Database]
 comments: true
 ---
 
-For one project I am working on now about Software Heritage Graph Dataset, the data I need is huge up to 30+GB. To make the analysis more smoothly, I start learning PostgreSQL to help store, manipulate and retrieve data. This blog would be a summary for what I learn, basically the commands.
+I am exploring Software Heritage Graph Dataset recently, the data I need is huge up to 30+GB. To make the analysis more smoothly, I start learning PostgreSQL to help store, manipulate and retrieve data. This blog would be a summary for what I learn/use, basically the commands.
 
 ### To be continued..
 
