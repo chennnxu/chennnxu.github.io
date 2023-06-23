@@ -3,7 +3,7 @@ layout: post
 title:  Unveiling City Vibrance
 subtitle: Events analysis of Berlin
 cover-img: /assets/img/berlin-event.jpg
-tags: [Project, Data Analysis]
+tags: [Sunday Project, Data Analysis]
 comments: true
 ---
 
