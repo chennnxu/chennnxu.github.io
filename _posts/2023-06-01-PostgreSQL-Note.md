@@ -31,6 +31,7 @@ insert records into tables: INSERT INTO NAME (
     column name, ...
 )
 VALUES (value1, ...);
+
 select all: SELECT * FROM NAME;
 order by: ORDER BY column name (ASC/DESC);
 
@@ -39,3 +40,14 @@ Copying a Query Result Set: COPY ([Query]) TO '[File Name]' DELIMITER ',' CSV HE
 ```
 
 *Prefer use UPPERCASE syntax for SQL commands*
+
+Some frequently used Linux command
+```
+find . -type f -exec mv '{}' '{}'.jpg \;
+
+cat *.csv >combined.csv
+
+scp /file/to/send username@remote:/where/to/put
+
+scp username@remote:/file/to/send /where/to/put
+```
