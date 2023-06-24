@@ -12,10 +12,10 @@ comments: true
 Social events have increasingly become significant indicators of cultural and social dynamics within cities. Social events serve as platforms for community engagement, cultural expression, and tourism promotion. Understanding the dynamics and characteristics of social events can provide valuable insights into city cultural landscapes and social fabric.
 
 Eventbrite platform serves as a comprehensive source of event data, capturing a wide range of events across various cities. This research aims to create a city portrait of Berlin by analyzing social event data obtained from the Eventbrite platform. This research will address the following research questions:<br>
-**RQ1**: What are the event time modes? <br>
-**RQ2**: What are the event category segments? <br>
-**RQ3**: How can event sentiment be segmented? <br>
-**RQ4**: How can event networks be modeled and analyzed, and what insights can be derived from them? (*)
+&ensp **RQ1**: What are the event time modes? <br>
+&ensp **RQ2**: What are the event category segments? <br>
+&ensp **RQ3**: How can event sentiment be segmented? <br>
+&ensp **RQ4**: How can event networks be modeled and analyzed, and what insights can be derived from them? (*)
 
 ### Data
 The Eventbrite API provides a comprehensive set of functionalities that enable developers to leverage the platform's features programmatically. 
