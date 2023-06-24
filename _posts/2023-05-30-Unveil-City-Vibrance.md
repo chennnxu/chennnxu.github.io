@@ -19,9 +19,12 @@ Research Question 2: What are the event category segments?
 
 Research Question 3: How can event sentiment be segmented within each city?
 
-Research Question 4: How can event networks be modeled and analyzed, and what insights can be derived from them?
+Research Question 4: How can event networks be modeled and analyzed, and what insights can be derived from them? (*)
 
+### Data
+The Eventbrite API provides a comprehensive set of functionalities that enable developers to leverage the platform's features programmatically.
 
+To collect all events and their event IDs in a specific city, I will scrape the Eventbrite website as the API does not offer such functionality. For example, to gather specific metadata for the event "Finding Product-Market Fit: Berlin vol. 2," I obtained the Event ID '627139961507' from its dedicated webpage on Eventbrite (Figure \ref{event_example}). By utilizing the Event ID, I accessed the Eventbrite API to retrieve additional relevant information. 
 
 
 ### Limitation
