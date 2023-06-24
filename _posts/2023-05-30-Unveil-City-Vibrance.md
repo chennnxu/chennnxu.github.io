@@ -36,6 +36,13 @@ The main python packages and API used in this analysis including:
 requests, BeautifulSoup, Pandas, eventbrite, PySAL etc.
 </mark>
 
-#### 
+#### Time mode
+The data provided is a snapshot, as Eventbrite does not retain past events on its website, and upcoming events beyond are not available or not yet planned. Based on the information provided in the figure, it is evident that the majority of events are concentrated within a period of approximately two months. Please note that this analysis is limited to the available data and does not account for future events that may be scheduled beyond the observation.
 
+<div align = "center">
+<img src="/assets/img/eventbrite/time_mode.png" width = "500" alt="timemode" align=center />
+</div>
+
+
+#### Category segmentation
 
