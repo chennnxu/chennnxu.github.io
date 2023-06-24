@@ -25,11 +25,16 @@ The data was collected on May 30th, but due to a bug on Eventbrite, only 50 page
 
 ### Analysis and Preliminary Result
 
-After processing the data, analysis is conducted based on the research questions. The expected results include:
-(1) Identification event time modes, highlighting temporal dynamics.
-(2) Segmentation and comparison of event categories, revealing the diversity of cultural and social events.
-(3) Segmentation and comparison of event sentiment, offering insights into the sentiment of events.
+After processing the data, analysis is conducted based on the research questions. The expected results include:<br>
+(1) Identification event time modes, highlighting temporal dynamics.<br>
+(2) Segmentation and comparison of event categories, revealing the diversity of cultural and social events.<br>
+(3) Segmentation and comparison of event sentiment, offering insights into the sentiment of events.<br>
 (4) Modeling and analysis of event networks, uncovering key influencers, communities, and interconnections within the social event landscape.(*)
+
+The main python packages and API used in this analysis including:
+<mark>
+requests, BeautifulSoup, Pandas, eventbrite
+</mark>
 
 #### 
 
