@@ -24,9 +24,7 @@ Research Question 4: How can event networks be modeled and analyzed, and what in
 ### Data
 The Eventbrite API provides a comprehensive set of functionalities that enable developers to leverage the platform's features programmatically.
 
-To collect all events and their event IDs in a specific city, I will scrape the Eventbrite website as the API does not offer such functionality. For example, to gather specific metadata for the event "Finding Product-Market Fit: Berlin vol. 2," I obtained the Event ID '627139961507' from its dedicated webpage on Eventbrite (Figure \ref{event_example}). By utilizing the Event ID, I accessed the Eventbrite API to retrieve additional relevant information. 
+To collect all events and their event IDs in a specific city, I will scrape the Eventbrite website as the API does not offer such functionality. For example, to gather specific metadata for the event "Finding Product-Market Fit: Berlin vol. 2," I obtained the Event ID '627139961507' from its dedicated webpage on Eventbrite. By utilizing the Event ID, I accessed the Eventbrite API to retrieve additional relevant information. 
 
-
-### Limitation
-The analysis cannot provide a definitive conclusion due to the limited availability of data, but the value lies in the underlying idea. If an ideal dataset becomes available in the near future, a reassessment will be conducted.
+The data was collected on May 30th, but due to a bug on Eventbrite, only 50 pages of events can be accessed out of the total 100+ pages of events. The analysis cannot provide a definitive conclusion due to the limited availability of data, but the value lies in the underlying idea. If an ideal dataset becomes available in the near future, a reassessment will be conducted. The full scrapped data can be access on [Github](data).
 
