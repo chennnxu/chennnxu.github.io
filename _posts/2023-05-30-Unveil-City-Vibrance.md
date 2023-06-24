@@ -7,7 +7,7 @@ tags: [Sunday Project, Data Analysis]
 comments: true
 ---
 
-## Introduction
+### Introduction
 
 Social events have increasingly become significant indicators of cultural and social dynamics within cities. Social events serve as platforms for community engagement, cultural expression, and tourism promotion. Understanding the dynamics and characteristics of social events in different cities can provide valuable insights into their cultural landscapes and social fabric.
 
@@ -23,6 +23,6 @@ Research Question 4: How can event networks be modeled and analyzed for each cit
 
 
 
-## Limitation
+### Limitation
 The analysis cannot provide a definitive conclusion due to the limited availability of data, but the value lies in the underlying idea. If an ideal dataset becomes available in the near future, a reassessment will be conducted.
 
