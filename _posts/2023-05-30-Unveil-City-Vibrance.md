@@ -33,7 +33,7 @@ After processing the data, we get total 978 events detail information. Next, ana
 
 The main python packages and API used in this analysis including:
 <mark>
-requests, BeautifulSoup, Pandas, eventbrite, GeoPy etc.
+requests, BeautifulSoup, Pandas, eventbrite, PySAL etc.
 </mark>
 
 #### 
