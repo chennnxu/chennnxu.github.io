@@ -33,7 +33,7 @@ After processing the data, we get total 978 events detail information. Next, ana
 
 The main python packages and API used in this analysis including:
 <mark>
-requests, BeautifulSoup, Pandas, eventbrite, GeoPandas etc.
+requests, BeautifulSoup, Pandas, eventbrite, GeoPandas, nltk, wordcloud etc.
 </mark>
 
 #### Time mode
@@ -50,3 +50,7 @@ The data provided is a snapshot, as Eventbrite does not retain past events on it
 
 #### Sentiment segmentation
 
+create some wordclouds to see the most frequently used words in the event description
+<div align = "center">
+<img src="/assets/img/eventbrite/wordcloud.png" width = "500" alt="category" align=center />
+</div>
