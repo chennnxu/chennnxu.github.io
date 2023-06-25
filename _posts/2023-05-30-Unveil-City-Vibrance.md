@@ -50,7 +50,9 @@ The data provided is a snapshot, as Eventbrite does not retain past events on it
 
 #### Sentiment segmentation
 
-create some wordclouds to see the most frequently used words in the event description
+First, create some wordclouds to see the most frequently used words in the event description
 <div align = "center">
 <img src="/assets/img/eventbrite/wordcloud.png" width = "500" alt="category" align=center />
 </div>
+
+**To be continued**
