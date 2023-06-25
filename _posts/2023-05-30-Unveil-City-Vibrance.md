@@ -33,7 +33,7 @@ After processing the data, we get total 978 events detail information. Next, ana
 
 The main python packages and API used in this analysis including:
 <mark>
-requests, BeautifulSoup, Pandas, eventbrite, GeoPy, Plotly etc.
+requests, BeautifulSoup, Pandas, eventbrite, GeoPandas etc.
 </mark>
 
 #### Time mode
@@ -43,4 +43,10 @@ The data provided is a snapshot, as Eventbrite does not retain past events on it
 </div>
 
 #### Category segmentation
+
+<div align = "center">
+<img src="/assets/img/eventbrite/category.png" width = "500" alt="category" align=center />
+</div>
+
+#### Sentiment segmentation
 
