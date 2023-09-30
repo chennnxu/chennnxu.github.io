@@ -55,4 +55,4 @@ First, create some wordclouds to see the most frequently used words in the event
 <img src="/assets/img/eventbrite/wordcloud.png" width = "500" alt="category" align=center />
 </div>
 
-**To be continued**
+**Will be continued when suitable data is avaliable :D**
