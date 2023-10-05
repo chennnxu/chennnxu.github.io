@@ -5,7 +5,7 @@ The libraries I mainly used are: BeautifulSoup, Requests, PyMySQL.
 
 项目参考链接：https://medium.com/@alberto_moura/build-a-jobs-database-using-indeeds-api-8f95316be842
 ### PART 1 Build a job database using Indeed API and LinkedIn API.
-
+`The libraries that are used: BeautifulSoup, PyMySQL`
 Building a **Web Scraper** to improve our Database.
 
 I am interested in automation and want and also don't want spend my time in repeating my time on the same thing. What's more, as a student study Data science + software engineer. It's the Craftsmanship which in Chineses called "工匠精神". Which use the thing I learned not only to earn the money to live but also 
@@ -17,7 +17,8 @@ The main purpose is to get what kind of skills that mentioned frequently on the 
 
 Automation is a way to sove the problem and make life easy.
 
-### PART 2 
+### PART 2 Build a web scraper to improve the databse
+
 
 
 后续可以做的事情Job skill analysis
