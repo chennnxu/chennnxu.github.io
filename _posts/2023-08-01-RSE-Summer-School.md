@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research Software Engineering Summer School in Cambridge University
-# subtitle: A comprehensive Summary with Examples
+title:  RSE Summer School in Cambridge University
+subtitle: Digital Humanities Research Software Engineering (RSE)
 cover-img: /assets/img/cambridge.jpeg
 tags: [Summer School]
 comments: true
