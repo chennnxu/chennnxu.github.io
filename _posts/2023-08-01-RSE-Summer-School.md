@@ -6,5 +6,8 @@ cover-img: /assets/img/cambridge.jpg
 tags: [Summer School]
 comments: true
 ---
-`PS. Banner image created with DALL.E from Cambridege Digital Humanities Website.`
-Cambridge Digital Humanities is pleased to announce that registration is now open for the Digital Humanities Research Software Engineering Summer School taking place on 24–25 July 2023 (online) and 27–28 July 2023 (Cambridge). The Summer School is co-organised by Cambridge Digital Humanities (Mary Chester-Kadwell), Edinburgh Centre for Data, Culture & Society (Lucia Michielin), King’s Digital Lab (Neil Jakeman) and The Alan Turing Institute (Federico Nanni). It was last hosted by The Alan Turing Institute in 2021 as a virtual online event. 
+
+I am gald to have the opportunity to join the [Digital Humanities Research Software Engineering Summer School](https://www.cdh.cam.ac.uk/events/36442/) taking place on 24–25 July 2023 (online) and 27–28 July 2023 (Cambridge). 
+
+The Summer School is co-organised by Cambridge Digital Humanities, Edinburgh Centre for Data, Culture & Society, King’s Digital Lab and The Alan Turing Institute. They open source their learning material on [Github](https://github.com/CambridgeDH/DH-RSE-Summer-School-2023). Thanks for all the dedication of the organizers and all the speakers.
+
