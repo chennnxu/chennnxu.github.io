@@ -7,5 +7,4 @@ tags: [Data Engineering]
 comments: true
 ---
 
-I have been take the Data Engineering Zoomcamp by DataTalks.Club.
-This md will be notes with irregular update.
+I am currently enrolled in the Data Engineering Zoomcamp offered by DataTalks.Club. This markdown document will serve as a repository for my notes, with irregular updates.
