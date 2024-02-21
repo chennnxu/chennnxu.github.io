@@ -7,4 +7,7 @@ tags: [Data Engineering]
 comments: true
 ---
 
-I am currently enrolled in the Data Engineering Zoomcamp offered by DataTalks.Club. This markdown document will serve as a repository for my notes, with irregular updates.
+I am currently reskill myself on data engineeing 8-), resource maily from Data Engineering Zoomcamp offered by DataTalks.Club. I summarize all by deploying a simple data engineer project.
+
+The tool used for the data engineering pipeline summarzie in Figure .
+
