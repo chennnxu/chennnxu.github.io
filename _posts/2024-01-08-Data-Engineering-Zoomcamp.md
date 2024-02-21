@@ -9,5 +9,5 @@ comments: true
 
 I am currently reskill myself on data engineeing 8-), resource maily from Data Engineering Zoomcamp offered by DataTalks.Club. I summarize all by deploying a simple data engineer project.
 
-The tool used for the data engineering pipeline summarzie in Figure .
+The tools used and the role of the tools for the data engineering pipeline summarzie in Figure below.
 
