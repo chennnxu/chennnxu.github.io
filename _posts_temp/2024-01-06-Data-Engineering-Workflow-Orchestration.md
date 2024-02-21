@@ -11,4 +11,5 @@ I am currently reskill myself on data engineeing, resource maily from Data Engin
 
 The tools used and the role of the tools for the data engineering pipeline summarzie in Figure below.
 
-Terraform : infrastructure as code tool
+Terraform : infrastructure as code tool - resource management
+![alt text](image.png)
