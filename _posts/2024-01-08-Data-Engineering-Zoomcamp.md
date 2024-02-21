@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Engineering Zoomcamp Notes
+title: Data Engineering Notes
 # subtitle: Anatomy of Tracks, Artists and Streams
 # cover-img: /assets/img/music.jpg
 tags: [Data Engineering]
