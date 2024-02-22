@@ -11,6 +11,8 @@ I am currently reskill myself on data engineeing, resource maily from Data Engin
 
 The tools used and the role of the tools for the data engineering pipeline summarzie in Figure below.
 
+Course Description Web Page: https://datatalks.club/blog/data-engineering-zoomcamp.html
+Youtube Videos Playlist: https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb 
 
 ## Week 1: Introduction & Prerequisites
 Tech: Docker, Postgres, Google Cloud Platform (GCP), Terraform
@@ -25,4 +27,5 @@ Cloud Part: Discover Google Cloud Platform and Terraform, focusing on automating
 
 4. Setup Google Cloud Platform(GCP)
 5. GIthub Codeplaces
+
 
