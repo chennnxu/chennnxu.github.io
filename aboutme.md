@@ -9,7 +9,7 @@ subtitle: 很酷,不聊天
 > Motto: 
 > **The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault**
 
-I am a Developer, a Data scientist, an Educator, a lifelong learner ...
+I am a ML / Data Engineer, a Python Developer, a Data scientist, an Educator, a lifelong learner ...
 
 <!---
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
