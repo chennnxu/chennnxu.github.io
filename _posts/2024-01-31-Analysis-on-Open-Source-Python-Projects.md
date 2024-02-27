@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis-on-Open-Source-Python-Projects 
+title: Analysis on Open Source Python Projects 
 subtitle: A Reflection
 # cover-img: /assets/img/music.jpg
 tags: [Project]
