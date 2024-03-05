@@ -10,7 +10,8 @@ comments: true
 ### About the Course
 I've found my journey into iOS Development Application incredibly enjoyable. The content distribution has been roughly divided into ~30% Swift concepts, ~30% UIKit, ~30% SwiftUI, and ~10% dedicated to seminar presentations. It's been a well-rounded learning experience that has enriched my understanding of iOS development.
 
-**Lecturer**: Prof. Dr. Jan Borchers  (RWTH Aachen University Human-Computer Interaction (HCI))
+**Lecturer**: Prof. Dr. Jan Borchers
+
 **Course Page**: [Link](https://hci.rwth-aachen.de/ios-22)
 
 I appreciate (1) the sophisticated design of iOS applications and (2) the vibrant Apple Developers Community. The dynamic nature of this community often leads to evolving solutions, where a fix for one problem may become obsolete shortly after discovery.
@@ -25,7 +26,5 @@ We developed a to-do app for iOS using the native frameworks, including Swift, U
 My responsibilities for this project encompass:
 
 (1)Build Core Data Schema
-
 (2)Launch the local notification function with the badge, title, and sound
-
 (3)Launch the App Setting related functions, including accent color, dark mode, and dynamic font size.
