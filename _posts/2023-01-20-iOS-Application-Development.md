@@ -7,7 +7,7 @@ tags: [iOS development]
 comments: true
 ---
 
-### About the course
+### About the Course
 I've found my journey into iOS Development Application incredibly enjoyable. The content distribution has been roughly divided into ~30% Swift concepts, ~30% UIKit, ~30% SwiftUI, and ~10% dedicated to seminar presentations. It's been a well-rounded learning experience that has enriched my understanding of iOS development.
 
 Lecturer: Prof. Dr. Jan Borchers  (RWTH Aachen University Human-Computer Interaction (HCI))
