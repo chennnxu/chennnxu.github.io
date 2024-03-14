@@ -6,11 +6,11 @@ subtitle: Get hands dirty 无他，唯手熟尔
 <div align="center">
 
 | ![Project 1](image_link) | ![Project 2](image_link) |
-|--------------------------|--------------------------|
+|:------------------------:|:------------------------:|
 | Description of Project 1 | Description of Project 2 |
 
 | ![Project 1](image_link) | ![Project 2](image_link) |
-|--------------------------|--------------------------|
+|:------------------------:|:------------------------:|
 | Description of Project 1 | Description of Project 2 |
 
 </div>
