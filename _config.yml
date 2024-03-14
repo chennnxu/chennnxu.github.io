@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Skill Network:
-    - Data Engineer: "ml"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Data Engineer: "de"
+    - ML Engineer: "ml"
   # Author's home: "https://deanattali.com"
 
 ################
