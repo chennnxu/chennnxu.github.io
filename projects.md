@@ -3,7 +3,7 @@ layout: page
 title: PROJECTS
 subtitle: Get hands dirty 无他，唯手熟尔
 ---
-<div align="center">
+
 
 | ![Project 1](image_link) | ![Project 2](image_link) |
 |:------------------------:|:------------------------:|
@@ -13,7 +13,6 @@ subtitle: Get hands dirty 无他，唯手熟尔
 |:------------------------:|:------------------------:|
 | Description of Project 1 | Description of Project 2 |
 
-</div>
 
 <!-- 
 | ![Project 1](https://example.com/project1.jpg) | ![Project 2](https://example.com/project2.jpg) |
