@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML
-subtitle: Math +  Algorithm
+title: ML Engineer
+# subtitle: Math +  Algorithm
 ---
 
 ---- stay tuned for more updated! ;)
