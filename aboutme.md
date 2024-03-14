@@ -1,14 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 很酷,不聊天
 ---
+<!---
+![comment:] # (Why you'd want to go on a date with me)
+-->
+> Motto: 
+> The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault
 
-My name is Inigo Montoya. I have the following qualities:
+I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Aspiring to become a full-stack machine learning engineer.
 
+<!---
+![avatar](/assets/img/my_profile_figure.jpeg =100x)
+--->
+<div align = "center">
+<img src="/assets/img/my_profile_figure.jpeg" width = "500" alt="profile" align=center />
+</div>
 What else do you need?
 
 ### My story

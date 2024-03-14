@@ -20,7 +20,7 @@ common-ext-js:
 
   <body>
 
-    <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %} main-content">
+    <div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %} main-content">
       {% if page.before-content %}
         <div class="before-content">
           {% for file in page.before-content %}
@@ -38,7 +38,7 @@ common-ext-js:
           {% endfor %}
         </div>
       {% endif %}
-    </main>
+    </div>
 
     {% include footer-minimal.html %}
 
