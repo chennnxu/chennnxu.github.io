@@ -1,37 +1,24 @@
 ---
 layout: page
-title: DEV
+title: PROJECTS
 subtitle: Get hands dirty 无他，唯手熟尔
 ---
 
 # Projects Showcase
 
-## Project 1: Awesome App
 
-![Awesome App](https://example.com/awesome_app.png)
+The examples below illustrate the use of flexdashboard with various packages and layouts. If you want to learn more about how the dashboards were created each example includes a link to its source code. 
 
-Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
+![NBA scoring with d3heatmap](images/htmlwidgets-d3heatmap.png)
+- [NBA scoring with d3heatmap](https://testing-apps.shinyapps.io/flexdashboard-d3heatmap/)
 
-[View Project](https://example.com/awesome_app)
+![ggplotly: ggplot2 geoms](images/plotly.png)
+- [ggplotly: ggplot2 geoms](https://testing-apps.shinyapps.io/flexdashboard-ggplotly/)
 
----
+![Shiny: biclust example](images/shiny-biclust.png)
+- [Shiny: biclust example](https://testing-apps.shinyapps.io/flexdashboard-shiny-biclust/)
 
-## Project 2: Cool Website
-
-![Cool Website](https://example.com/cool_website.png)
-
-Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
-
-[View Project](https://example.com/cool_website)
-
----
-
-## Project 3: Amazing Game
-
-![Amazing Game](https://example.com/amazing_game.png)
-
-Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
-
-[View Project](https://example.com/amazing_game)
+![Shiny: CRAN downloads](images/shiny-cran-dash.png)
+- [Shiny: CRAN downloads](https://testing-apps.shinyapps.io/flexdashboard-shiny-crandash/)
 
 ---- stay tuned for more updated! ;)
