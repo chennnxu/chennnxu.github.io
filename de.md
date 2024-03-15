@@ -35,6 +35,11 @@ title: Data Engineer
   - Terraforms & CI/CD
 
 
+
+## [Blogs](pages/Blogs-de.md)
+
+
+
 ## [Glossary](pages/Glossary-de.md)
 
 
