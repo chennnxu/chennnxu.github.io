@@ -10,6 +10,9 @@ title: Collect data by using APIs.
 requests
 ```
 
+
+An API lets two pieces of software talk to each other
+
 ### Simple APIs
 
 
