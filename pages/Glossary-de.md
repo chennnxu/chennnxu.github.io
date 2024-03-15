@@ -4,5 +4,4 @@ title: Grossary
 subtitle: DE
 ---
 
-* Data augmentation : A technique commonly used in machine learning and deep learning to increase the diversity and amount of training data.
----- stay tuned for more updated! 
+* Data augmentation: A technique commonly used in machine learning and deep learning to increase the diversity and amount of training data.
