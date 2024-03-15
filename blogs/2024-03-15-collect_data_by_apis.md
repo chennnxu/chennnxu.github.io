@@ -16,11 +16,13 @@ requests
 
 
 
+### REST APIs
 
 
 
 
-
+### Glossary
+Application Program Interface: API
 
 
 
