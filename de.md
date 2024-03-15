@@ -34,6 +34,7 @@ title: Data Engineer
   - Kubernetes
   - Terraforms & CI/CD
 
+
 ## [Glossary](pages/Glossary-de.md)
 
 
