@@ -23,6 +23,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 |  Short description of Project 3.              | Short description of Project 4.               | -->
 
 
+# AI in Action
 
 ## Project 1: Awesome App
 
