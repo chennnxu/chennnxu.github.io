@@ -25,13 +25,9 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 # AI in Action
 
-## Project 1: Awesome App
+## [Emotion Detection: AI-based Wed Development](_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md)
 
 ![Awesome App](https://example.com/awesome_app.png)
-
-Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
-
-[View Project](https://example.com/awesome_app)
 
 ---
 
@@ -41,17 +37,16 @@ Description of the project goes here. Lorem ipsum dolor sit amet, consectetur ad
 
 Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
 
-[View Project](https://example.com/cool_website)
 
----
 
-## Project 3: Amazing Game
 
-![Amazing Game](https://example.com/amazing_game.png)
+
+
+# Hackathon
+## [Community-based Delivery]()
+
 
 Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
-
-[View Project](https://example.com/amazing_game)
 
 
 
