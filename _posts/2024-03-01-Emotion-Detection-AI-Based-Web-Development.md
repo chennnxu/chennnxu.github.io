@@ -8,6 +8,6 @@ tag: [Project, Applied AI]
 ## Highlghts
 
 ```text
-Watson NLP Library, Flask
+spaCy, Flask
 ```
 
