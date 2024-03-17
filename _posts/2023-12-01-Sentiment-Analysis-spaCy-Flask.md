@@ -34,7 +34,7 @@ The main steps for completing this project are shown in Figure 1. And the runnin
 
 > Check the quality of the code as per the PEP8 guidelines by running static code analysis using `PyLint` library. 
 
-```shell
+```bash
 pylint  server.py
 ```
 
