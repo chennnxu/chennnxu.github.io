@@ -7,17 +7,15 @@ subtitle: 很酷,不聊天
 ![comment:] # (Why you'd want to go on a date with me)
 -->
 > Motto: 
-> The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault
+>> The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault
 
-I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... 
-
-Aspiring to become a full-stack machine learning engineer.
+I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... Aspiring to become a full-stack machine learning engineer.
 
 <!---
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
 --->
 <div align = "center">
-<img src="/assets/img/my_profile_figure.jpeg" width = "500" alt="profile" align=center />
+<img src="/assets/img/my_profile_figure.jpeg" width = "400" alt="profile" align=center />
 </div>
 What else do you need?
 
