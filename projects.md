@@ -25,10 +25,16 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 
 
+
+
+---
 #### 3 [Emotion Detection: AI-based Wed Development](_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md)
 ---
-
-#### 2 Cool Website
+#### 4 [Unveiling City Vibrance: Events analysis of Berlin with Eventbrite](_posts/2023-05-30-Unveil-City-Vibrance.md)
 ---
-#### 1 [Shopping Paws - Social Shopping application](https://github.com/3-paws/3p.git)
+#### 3 [Shopping Paws - Social Shopping application](https://github.com/3-paws/3p.git)
+---
+#### 2 [To-Do List App: iOS Application Development](_posts/2023-01-20-iOS-Application-Development.md)
+---
+#### 1 [Hits on Spotify: Anatomy of Tracks, Artists and Streams](_posts/2022-08-01-Hits-on-Spotify.md)
 
