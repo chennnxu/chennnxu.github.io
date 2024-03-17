@@ -13,7 +13,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 
 ---
-#### 5 Sentiment Analysis Application with spaCy and Flask [ongoing]
+#### 5 Sentiment Analysis Application with spaCy and Flask [Link](_posts/2023-12-01-Sentiment-Analysis-spaCy-Flask.md)
 
 ---
 #### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
