@@ -11,7 +11,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 6 Emotion Detection with BERT: AI-based Wed Development [ongoing]
+#### 6 Emotion Detection with BERT: AI-based Application [ongoing]
 
 <!-- (_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md) -->
 
