@@ -7,7 +7,7 @@ title: Data Engineer
 
 ## Skill Sets
 
-- Databases
+<!-- - Databases
   - Realational
   - NoSQL
 
@@ -32,25 +32,8 @@ title: Data Engineer
 
 - Infrasture as Code
   - Kubernetes
-  - Terraforms & CI/CD
-
-
+  - Terraforms & CI/CD -->
 
 ## [Blogs](pages/Blogs-de.md)
 
-
-
 ## [Glossary](pages/Glossary-de.md)
-
-
-<!-- 
-### My checklist
-- [ ] Conquer markdown
-- [ ] Procrastinate for the rest of the day
-
-### My nested checklist
-- [x] Task 1
-- [ ] Task 2
-  - [x] Subtask A
-  - [ ] Subtask A
-- [x] Task 3 -->

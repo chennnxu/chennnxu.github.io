@@ -6,7 +6,6 @@ title: ML Engineer
 
 ## Skill Sets
 
-
-
+## Blogs
 
 ## [Glossary](pages/Glossary-ml.md)
