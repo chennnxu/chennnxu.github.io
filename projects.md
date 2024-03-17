@@ -28,15 +28,21 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 
 ---
-#### 6 Emotion Detection: AI-based Wed Development with BERT [AI, NLP] [Link](_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md)
+#### 6 Emotion Detection: AI-based Wed Development with BERT 
+[AI, NLP] [Link](_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md)
 ---
-#### 5 Sentiment Analysis Application with spaCy and Flask  [NLP, Web Development] [Link]()
+#### 5 Sentiment Analysis Application with spaCy and Flask  
+[NLP, Web Development] [Link]()
 ---
-#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Data Science] [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
+#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite 
+[Data Science] [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
 ---
-#### 3 Shopping Paws - Social Shopping application [Full Stack Development] [Link](https://github.com/3-paws/3p.git)
+#### 3 Shopping Paws - Social Shopping application 
+[Full Stack Development] [Link](https://github.com/3-paws/3p.git)
 ---
-#### 2 To-Do List App: iOS Application Development [iOS Application Development] [Link](_posts/2023-01-20-iOS-Application-Development.md) 
+#### 2 To-Do List App: iOS Application Development 
+[iOS Application Development] [Link](_posts/2023-01-20-iOS-Application-Development.md) 
 ---
-#### 1 Hits on Spotify: Anatomy of Tracks, Artists and Streams [Data Science] [Link](_posts/2022-08-01-Hits-on-Spotify.md)
+#### 1 Hits on Spotify: Anatomy of Tracks, Artists and Streams 
+[Data Science] [Link](_posts/2022-08-01-Hits-on-Spotify.md)
 
