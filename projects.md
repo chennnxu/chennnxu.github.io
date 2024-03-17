@@ -19,7 +19,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 #### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
 
 ---
-#### 3 Shopping Paws - Social Shopping application [Link](https://github.com/3-paws/3p.git)
+#### 3 Shopping Paws - Social Shopping Application [Link](https://github.com/3-paws/3p.git)
 
 ---
 #### 2 To-Do List App: iOS Application Development [Link](_posts/2023-01-20-iOS-Application-Development.md)
