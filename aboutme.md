@@ -14,9 +14,9 @@ I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... Aspiri
 <!---
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
 --->
-<div align = "center">
+<!-- <div align = "center">
 <img src="/assets/img/my_profile_figure.jpeg" width = "400" alt="profile" align=center />
-</div>
+</div> -->
 What else do you need?
 
 ### My story
