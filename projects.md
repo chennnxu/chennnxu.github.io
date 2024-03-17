@@ -7,30 +7,22 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 
 ---
-#### 6 Emotion Detection: AI-based Wed Development with BERT [Link]
+#### 6 Emotion Detection: AI-based Wed Development with BERT [ongoing]
 
 <!-- (_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md) -->
 
 
 ---
-#### 5 Sentiment Analysis Application with spaCy and Flask [Link]
+#### 5 Sentiment Analysis Application with spaCy and Flask [ongoing]
 
 ---
-#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite 
-[Data Science] [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
+#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
 
 ---
 #### 3 Shopping Paws - Social Shopping application [Link](https://github.com/3-paws/3p.git)
 
-<!-- [Full Stack Development]  -->
-
 ---
 #### 2 To-Do List App: iOS Application Development [Link](_posts/2023-01-20-iOS-Application-Development.md)
 
-<!-- [iOS Application Development]   -->
-
 ---
 #### 1 Hits on Spotify: Anatomy of Tracks, Artists and Streams [Link](_posts/2022-08-01-Hits-on-Spotify.md)
-
-<!-- [Data Science]  -->
-
