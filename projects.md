@@ -23,32 +23,12 @@ subtitle: Get hands dirty 无他，唯手熟尔
 |  Short description of Project 3.              | Short description of Project 4.               | -->
 
 
-# AI in Action
 
-## [Emotion Detection: AI-based Wed Development](_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md)
 
-![Awesome App](https://example.com/awesome_app.png)
-
+#### 3 [Emotion Detection: AI-based Wed Development](_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md)
 ---
 
-## Project 2: Cool Website
+#### 2 Cool Website
+---
+#### 1 [Shopping Paws - Social Shopping application](https://github.com/3-paws/3p.git)
 
-![Cool Website](https://example.com/cool_website.png)
-
-Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
-
-
-
-
-
-
-# Hackathon
-## [Community-based Delivery]()
-
-
-Description of the project goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et sapien quis metus varius tempor.
-
-
-
-
----- stay tuned for more updated! ;)
