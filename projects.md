@@ -4,7 +4,7 @@ title: PROJECTS
 subtitle: Get hands dirty 无他，唯手熟尔
 ---
 
-
+<!-- #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing] -->
 
 ---
 
@@ -12,7 +12,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing]
+#### 7 Automated System for Weather Forcasting [Link]
 
 ---
 

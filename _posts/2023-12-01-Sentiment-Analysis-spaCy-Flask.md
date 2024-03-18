@@ -6,7 +6,7 @@ tags: [Project, Full Stack, NLP]
 ---
 ## Highlight
 
-```
+```text
 spaCy, Flask, unit test, static code analysis, Javascript/HTML/CSS
 ```
 
