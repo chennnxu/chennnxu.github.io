@@ -5,10 +5,11 @@ subtitle: Get hands dirty 无他，唯手熟尔
 ---
 
 <!-- #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing] -->
+<!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) -->
 
 ---
 
-#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [ongoing]
+#### 9
 
 ---
 
@@ -16,7 +17,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 7 Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md)
+#### 7 Microsoft AI Challenge: Build GenAI App combine LLMs [ongoing]
 
 ---
 
