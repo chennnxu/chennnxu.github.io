@@ -12,7 +12,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 7 Automated System for Weather Forcasting [Link]
+#### 7 Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md)
 
 ---
 
