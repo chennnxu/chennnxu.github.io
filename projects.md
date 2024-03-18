@@ -5,6 +5,11 @@ subtitle: Get hands dirty 无他，唯手熟尔
 ---
 
 
+
+---
+
+#### 8 Build a Custom GPT from Scrach [ongoing]
+
 ---
 
 #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing]

@@ -7,7 +7,7 @@ tags: [Project, Full Stack, NLP]
 ## Highlight
 
 ```
-spaCy, Flask, unit test, static code analysis
+spaCy, Flask, unit test, static code analysis, Javascript/HTML/CSS
 ```
 
 ## Overview
