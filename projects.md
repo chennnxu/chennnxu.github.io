@@ -22,7 +22,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 5 Sentiment Analysis Application with spaCy and Flask [Link](_posts/2023-12-01-Sentiment-Analysis-spaCy-Flask.md)
+#### 5 Developing Sentiment Analysis Application with spaCy and Flask [Link](_posts/2023-12-01-Sentiment-Analysis-spaCy-Flask.md)
 
 ---
 
