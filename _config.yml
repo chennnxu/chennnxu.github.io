@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://chennnxu.github.io/"
   About Me: "aboutme"
   Projects: "projects"
-  Skill Network[*New]:
+  Skills Network[*New]:
     - Data Engineer: "de"
     - ML Engineer: "ml"
   # Author's home: "https://deanattali.com"
