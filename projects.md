@@ -9,7 +9,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 9
+#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [ongoing]
 
 ---
 
@@ -17,7 +17,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 7 Microsoft AI Challenge: Build GenAI App combine LLMs [ongoing]
+#### 7 ETL and Data Pipelines with Shell, Airflow and Kafka [ongoing]
 
 ---
 
