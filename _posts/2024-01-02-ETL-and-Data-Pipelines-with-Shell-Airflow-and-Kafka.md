@@ -1,17 +1,12 @@
 ---
 layout: post
 title: ETL and Data Pipelines with Shell, Airflow and Kafka
-tags: [ETL, Airflow, Kafka]
+tags: [Project, ETL, Airflow, Kafka]
 ---
 
+### Highlight
 
-
-
-
-
-
-
-
+### Overview
 
 ### References
 
