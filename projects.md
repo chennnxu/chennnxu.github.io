@@ -8,6 +8,10 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
+#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [ongoing]
+
+---
+
 #### 8 Build a Custom GPT from Scrach [ongoing]
 
 ---
