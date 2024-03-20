@@ -22,7 +22,12 @@ Decongest the national highways by analyzing the road traffic data from differen
 
 #### Tasks
 
-Each highway is operated by a different toll operator with a different IT setup that uses different file formats. Your task is to collect data available in different formats and consolidate it into a single file.
+Each highway is operated by a different toll operator with a different IT setup that uses different file formats. The task is to collect data available in different formats and consolidate it into a single file.
+
+- Creating ETL Data Pipelines using Apache Airflow
+- - Extract data from different formats, including csv, tsv and fixed width file.
+- - Transform the data
+- - Load the transformed data into the staging area
 
 ### References
 
