@@ -31,4 +31,4 @@ Each highway is operated by a different toll operator with a different IT setup 
 
 ### References
 
-Project finished during study Coursera IBM Data Engineering Professional Certificate Specialization.
+One of the final projects finished when study Coursera IBM Data Engineering Professional Certificate Specialization.
