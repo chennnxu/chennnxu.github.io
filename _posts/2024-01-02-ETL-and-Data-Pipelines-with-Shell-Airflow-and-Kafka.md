@@ -29,6 +29,7 @@ The task is to collect data available in different formats and consolidate it in
   - Transform the data
   - Load the transformed data into the staging area
 
+
 ### References
 
 One of the final projects finished when study Coursera IBM Data Engineering Professional Certificate Specialization.
