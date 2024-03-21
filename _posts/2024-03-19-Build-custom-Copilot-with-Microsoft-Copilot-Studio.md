@@ -34,16 +34,10 @@ Microsoft AI Tour Berlin 03.19.2024
 
 ## Learn more
 
-[Copilot Studio website](aka.ms/copilotstudio)
-
-[Blog](aka.ms/copilotstudioblog)
-
-[Demo](aka.ms/copilotstudiodemo)
-
-[Sizzle video](aka.ms/copilotstudiosizzle)
-
-[Product Document](aka.ms/copilotstudiodocs)
-
-[Community Page](aka.ms/copilotstudiocommunity)
-
+[Copilot Studio website](aka.ms/copilotstudio)  
+[Blog](aka.ms/copilotstudioblog)  
+[Demo](aka.ms/copilotstudiodemo)  
+[Sizzle video](aka.ms/copilotstudiosizzle)  
+[Product Document](aka.ms/copilotstudiodocs)  
+[Community Page](aka.ms/copilotstudiocommunity)  
 [Implementation Studio](aka.ms/CopilotStudioImplenmentationGuide)
