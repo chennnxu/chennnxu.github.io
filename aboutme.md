@@ -13,6 +13,8 @@ The main interest in life and work is to become someone else that you were not i
 
 I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... Aspiring to become a full-stack machine learning engineer.
 
+<!-- AI application developer -->
+
 <!---
 ![avatar](/assets/img/my_profile_figure.jpeg =100x)
 --->
