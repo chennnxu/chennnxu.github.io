@@ -6,6 +6,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 <!-- #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing] -->
 <!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) -->
+<!-- Build a Custom GPT from Scrach [ongoing] -->
 
 ---
 
@@ -13,7 +14,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 8 Build a Custom GPT from Scrach [ongoing]
+#### 8 Build custom Copilot with Microsoft Copilot Studio [Link](_posts/2024-03-19-Build-custom-Copilot-with-Microsoft-Copilot-Studio.md)
 
 ---
 
