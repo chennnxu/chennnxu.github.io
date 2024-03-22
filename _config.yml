@@ -26,6 +26,7 @@ navbar-links:
   Skills Network[*New]:
     - Data Engineer: "de"
     - ML Engineer: "ml"
+    - RWTH Coursework: "rwth"
   # Author's home: "https://deanattali.com"
 
 ################
