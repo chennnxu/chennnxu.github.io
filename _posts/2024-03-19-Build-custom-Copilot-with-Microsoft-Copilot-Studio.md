@@ -30,14 +30,15 @@ Workshop is well-structured. We are first introduced what we are going to do and
 
 ## Reference
 
-Microsoft AI Tour Berlin 03.19.2024
+Microsoft AI Tour Berlin 03.19.2024  
+Workshop 1: Build your own Copilot with Microsoft Copilot Studio
 
 ## Learn more
 
-* [Copilot Studio website](aka.ms/copilotstudio)  
-* [Blog](aka.ms/copilotstudioblog)  
-* [Demo](aka.ms/copilotstudiodemo)  
-* [Sizzle video](aka.ms/copilotstudiosizzle)  
-* [Product Document](aka.ms/copilotstudiodocs)  
-* [Community Page](aka.ms/copilotstudiocommunity)  
-* [Implementation Studio](aka.ms/CopilotStudioImplenmentationGuide)
+* [Copilot Studio website](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio)  
+* [Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/)  
+* [Demo](https://web.powerva.microsoft.com/tryit)  
+* [Sizzle video](https://www.youtube.com/watch?v=WVn57PXoFPE)  
+* [Product Document](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)  
+* [Community Page](https://powerusers.microsoft.com/t5/Copilot-Studio-Community/ct-p/PVACommunity)  
+* [Implementation Studio](https://www.bing.com/?ref=aka&shorturl=CopilotStudioImplenmentationGuide)
