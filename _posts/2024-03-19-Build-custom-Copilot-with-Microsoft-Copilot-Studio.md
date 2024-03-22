@@ -30,10 +30,18 @@ Following I will build my own Copilot - "Pandora", with Generative Answers and G
 
 My understanding of generative answers is that they enable you to use Copilot to talk with your own data.
 
+##### Build the Copilot
+
 * Press Create Copilot and give it a name.
 * Give knowledge source, e.g. a website, to the Copilot for genrative answers, so that the copilot can instantly answer the question over the data.
 * Test the copilot! Yes, It's surprisingly easy to get started with Copilot, just a few steps and you're good to go.
 
+##### Publish the Copilot
+
+* Press Publish to publish the copilot, so that the copilot can be added to other channels, e.g. Microsoft Teams, WhatsApp, twilio, Facebook etc.
+* Select the channel, e.g. Microsoft Teams.
+* Open Bot and then will be redirected to Microsoft Teams
+* Add the Copilot to Teams. Now we can use the Copilot on Teams.
 
 #### Generative Actions
 
