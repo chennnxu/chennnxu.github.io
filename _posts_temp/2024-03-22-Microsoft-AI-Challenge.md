@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft AI Challenge
+title: Microsoft AI Challenge [Ongoing]
 tags: [Project, AI]
 ---
 
