@@ -6,7 +6,11 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 <!-- #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing] -->
 <!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) -->
+
 <!-- Build a Custom GPT from Scrach [ongoing] -->
+---
+
+#### 10 Generate Keywords for Google Ads [ongoing]
 
 ---
 
