@@ -10,7 +10,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 <!-- Build a Custom GPT from Scrach [ongoing] -->
 ---
 
-#### 10 Generate Keywords for Google Ads [ongoing]
+#### 10 Data Engineering Project(DataTalksClub DE Zoomcamp) [ongoing]
 
 ---
 
