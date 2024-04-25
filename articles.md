@@ -10,11 +10,11 @@ subtitle: Learn from others
 
 ---
 
-#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Link](_posts/2023-05-30-Unveil-City-Vibrance.md)
+#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Link](_posts/2023-05-30-Unveil-City-Vibrance.md) -->
 
 ---
 
-#### 3 Shopping Paws - Social Shopping Application [Link](https://github.com/3-paws/3p.git) -->
+#### 3 Get your first software developer job [Link](https://github.com/readme/guides/first-job-in-tech)
 
 ---
 
