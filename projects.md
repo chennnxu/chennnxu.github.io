@@ -8,13 +8,16 @@ subtitle: Get hands dirty 无他，唯手熟尔
 <!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) -->
 
 <!-- Build a Custom GPT from Scrach [ongoing] -->
+
+#### 11 Google AI Hackathon [Link](https://googleai.devpost.com/)
+
 ---
 
 #### 10 Data Engineering Project(DataTalksClub DE Zoomcamp) [ongoing]
 
 ---
 
-#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [✅](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d)
+#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [Link](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d)✅
 
 ---
 
