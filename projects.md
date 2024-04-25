@@ -17,7 +17,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [Link](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d)✅
+#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [Link](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d)
 
 ---
 
