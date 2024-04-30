@@ -29,7 +29,8 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
-#### 7 ETL and Data Pipelines with Shell, Airflow and Kafka [Link](_posts/2024-01-02-ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka.md)
+#### 7 ETL and Data Pipelines with Shell, Airflow and Kafka
+<!-- [Link](_posts/2024-01-02-ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka.md) -->
 
 ---
 
