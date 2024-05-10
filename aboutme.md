@@ -11,7 +11,7 @@ subtitle: 很酷,不聊天
 The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault
 ```
 
-I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... Aspiring to become a full-stack machine learning engineer.
+I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... Aspiring to become a full-stack AI engineer.
 
 <!-- AI application developer -->
 
