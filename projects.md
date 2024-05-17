@@ -5,15 +5,15 @@ subtitle: Get hands dirty 无他，唯手熟尔
 ---
 
 <!-- #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing] -->
-<!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) -->
-
+<!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) 
+Google AI Hackathon [Link](https://googleai.devpost.com/) -->
 <!-- Build a Custom GPT from Scrach [ongoing] -->
 
 #### 12 Microsoft AI-102 Azure AI Engineer Associate 14 May,2024 [Link](https://learn.microsoft.com/api/credentials/share/en-us/ChenXu-1920/4B84907DFE809E15?sharingId=BAC4477B0A87D80B)
 
 ---
 
-#### 11 Google AI Hackathon [Link](https://googleai.devpost.com/)
+#### 11 Football Analysis Deep Learning Application [Link](_posts/2024-04-28-Football-Analysis-Deep-Learning-Application.md)
 
 ---
 
