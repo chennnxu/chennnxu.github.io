@@ -9,7 +9,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 <!-- Build a Custom GPT from Scrach [ongoing] -->
 
-#### 12 Microsoft AI-102 Azure AI Engineer Associate Exam 14 May [ongoing]
+#### 12 Microsoft AI-102 Azure AI Engineer Associate 14 May,2024 [Link](https://learn.microsoft.com/api/credentials/share/en-us/ChenXu-1920/4B84907DFE809E15?sharingId=BAC4477B0A87D80B)
 
 ---
 
