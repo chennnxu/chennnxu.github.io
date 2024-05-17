@@ -13,7 +13,7 @@ Google AI Hackathon [Link](https://googleai.devpost.com/) -->
 
 ---
 
-#### 11 Football Analysis Deep Learning Application [Link](_posts/2024-04-28-Football-Analysis-Deep-Learning-Application.md)
+#### 11 Football Analysis Deep Learning Application⚽️ [Link](_posts/2024-04-28-Football-Analysis-Deep-Learning-Application.md)
 
 ---
 
