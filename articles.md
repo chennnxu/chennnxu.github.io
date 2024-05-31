@@ -6,11 +6,11 @@ subtitle: Learn from others
 
 <!-- ---
 
-#### 5 Developing Sentiment Analysis Application with spaCy and Flask [Link](_posts/2023-12-01-Sentiment-Analysis-spaCy-Flask.md)
+#### 5 Developing Sentiment Analysis Application with spaCy and Flask [Link](_posts/2023-12-01-Sentiment-Analysis-spaCy-Flask.md) -->
 
 ---
 
-#### 4 Unveiling City Vibrance: Events analysis of Berlin with Eventbrite [Link](_posts/2023-05-30-Unveil-City-Vibrance.md) -->
+#### 4 Analysis of Algorithms [Link](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 
 ---
 
