@@ -7,11 +7,11 @@ subtitle: 很酷,不聊天
 ![comment:] # (Why you'd want to go on a date with me)
 -->
 
-```text
+**
 The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault
-```
+**
 
-I am a passionate ML / Data Engineer, an Educator, a lifelong learner ... Aspiring to become a full-stack AI engineer.
+I am a passionate ML/AI full-stack Engineer, an Educator, a lifelong learner ...
 
 <!-- AI application developer -->
 
