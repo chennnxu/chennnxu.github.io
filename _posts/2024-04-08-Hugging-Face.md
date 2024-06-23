@@ -11,7 +11,10 @@ comments: true
 ## 0. Key Terms
 
 **Model Hub** - Repository of thousands of reusable trained ML models
-**Spaces** - Hosted apps to demonstrate ML projects
+**Spaces** - Hosted apps to demonstrate ML projects  
+**Codespaces** - Browser-based dev environment with GPU access
+**CLI** - Command line tool for tasks like authentication and caching  
+**Inference API** - Hosted API to get predictions from latest models  
 
 ## 1. Reflections
 
