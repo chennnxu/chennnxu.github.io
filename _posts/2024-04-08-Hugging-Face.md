@@ -2,7 +2,7 @@
 layout: post
 title: Hugging Face
 # subtitle: MLflow
-# cover-img: /assets/img/music.jpg
+cover-img: /assets/img/hf-logo-with-title.png
 tags: [ML]
 comments: true
 ---
