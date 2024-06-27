@@ -48,7 +48,7 @@ Google AI Hackathon [Link](https://googleai.devpost.com/) -->
 
 ---
 
-#### 3 Shopping Paws - Social Shopping Application [Link](https://github.com/3-paws/3p.git)
+#### 3 Shopping Paws - Social Shopping Application [Link](_posts/2023-07-31-Social-Shopping-App.md)
 
 ---
 
