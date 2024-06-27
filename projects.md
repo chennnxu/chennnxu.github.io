@@ -9,11 +9,11 @@ subtitle: Get hands dirty 无他，唯手熟尔
 Google AI Hackathon [Link](https://googleai.devpost.com/) -->
 <!-- Build a Custom GPT from Scrach [ongoing] -->
 
-#### 11 Microsoft AI-102 Azure AI Engineer Associate 14 May,2024 [Link](https://learn.microsoft.com/api/credentials/share/en-us/ChenXu-1920/4B84907DFE809E15?sharingId=BAC4477B0A87D80B)
+#### 8 Microsoft AI-102 Azure AI Engineer Associate 14 May,2024 [Link](https://learn.microsoft.com/api/credentials/share/en-us/ChenXu-1920/4B84907DFE809E15?sharingId=BAC4477B0A87D80B)
 
----
+<!-- ---
 
-#### 10 Football Analysis Deep Learning Application⚽️ [Link](_posts/2024-04-28-Football-Analysis-Deep-Learning-Application.md)
+#### 10 Football Analysis Deep Learning Application⚽️ [Link](_posts/2024-04-28-Football-Analysis-Deep-Learning-Application.md) -->
 
 <!-- ---
 
@@ -21,22 +21,22 @@ Google AI Hackathon [Link](https://googleai.devpost.com/) -->
 
 ---
 
-#### 9 Microsoft AI Challenge: Build GenAI App combine LLMs [Link](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d)
+#### 7 Microsoft AI Challenge: Build GenAI App combine LLMs [Link](https://learn.microsoft.com/en-us/training/challenges?id=da09d3ca-a2bb-47dc-ba42-bea77b386a3d)
 
 ---
 
-#### 8 Build custom Copilot with Microsoft Copilot Studio [Link](_posts/2024-03-19-Build-custom-Copilot-with-Microsoft-Copilot-Studio.md)
-
+#### 6 Build custom Copilot with Microsoft Copilot Studio [Link](_posts/2024-03-19-Build-custom-Copilot-with-Microsoft-Copilot-Studio.md)
+<!-- 
 ---
 
 #### 7 ETL and Data Pipelines with Shell, Airflow and Kafka
-<!-- [Link](_posts/2024-01-02-ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka.md) -->
-
+[Link](_posts/2024-01-02-ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka.md) -->
+<!--
 ---
 
 #### 6 Emotion Detection with BERT: AI-based Application [ongoing]
 
-<!-- (_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md) -->
+ (_posts/2024-03-01-Emotion-Detection-AI-Based-Web-Development.md) -->
 
 ---
 
