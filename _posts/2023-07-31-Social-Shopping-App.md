@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shoping paws - Social Shopping Application
-thumbnail-img: /assets/img/herhackathon/brand.png
+thumbnail-img: /assets/img/herhackathon2023/brand.png
 tags: [Project, Full Stack, Hackathon]
 ---
 ## Highlight
