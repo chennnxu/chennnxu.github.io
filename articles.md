@@ -4,9 +4,9 @@ title: ARTICLES
 subtitle: Learn from others
 ---
 
-<!-- ---
+---
 
-#### 5 Developing Sentiment Analysis Application with spaCy and Flask [Link](_posts/2023-12-01-Sentiment-Analysis-spaCy-Flask.md) -->
+#### 5 How to Make a Great Conference Talk [Link](https://switowski.com/blog/how-to-make-a-great-conference-talk/)
 
 ---
 
