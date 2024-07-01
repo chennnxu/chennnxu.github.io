@@ -6,6 +6,10 @@ subtitle: Learn from others
 
 ---
 
+#### 6 Big-O Cheat Sheet [Link](https://www.bigocheatsheet.com/)
+
+---
+
 #### 5 How to Make a Great Conference Talk [Link](https://switowski.com/blog/how-to-make-a-great-conference-talk/)
 
 ---
