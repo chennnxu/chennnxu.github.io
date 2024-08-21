@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LLMOps Specialization
-subtitle: Large Language Model Operations(projects)
+title: LLMOps(projects)
+subtitle: Large Language Model Operations
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
