@@ -6,6 +6,14 @@ subtitle: Learn from others
 
 ---
 
+#### 8 Dining philosophers problem [Link](https://en.m.wikipedia.org/wiki/Dining_philosophers_problem)
+
+---
+
+#### 7 Python Conference Deadlines [Link](https://pythondeadlin.es/)
+
+---
+
 #### 6 Big-O Cheat Sheet [Link](https://www.bigocheatsheet.com/)
 
 ---
