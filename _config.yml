@@ -21,9 +21,10 @@ author: CHEN
 
 navbar-links:
   Home: "https://chennnxu.github.io/"
-  About Me: "aboutme"
   Projects: "projects"
   Articles: "articles"
+  Algorithms: "algorithms"
+  About Me: "aboutme"
   # Skills Network[*New]:
   #   - Data Engineer: "de"
   #   - ML Engineer: "ml"
