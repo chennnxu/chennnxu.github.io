@@ -9,3 +9,5 @@ tags: [LLMs, GraphRAG]
 ---
 
 ## 💡Inspiration
+
+This is a test for new Cursor.
