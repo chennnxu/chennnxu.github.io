@@ -25,6 +25,7 @@ navbar-links:
   Projects: "projects"
   Articles: "articles"
   Algorithms: "algorithms"
+  Evangelist: "evangelist"
   About Me: "aboutme"
   # Skills Network[*New]:
   #   - Data Engineer: "de"
