@@ -4,7 +4,11 @@ title: PROJECTS
 subtitle: Get hands dirty 无他，唯手熟尔
 ---
 
-<!-- #### 7 Build ChatBot in Less Than 100 Lines of Code [ongoing] -->
+---
+
+#### 10 ChatPDF with LangChain and DeepSeek [Link](https://github.com/chennnxu/QnAsystem-LLM-RAG.git)
+
+---
 <!-- Automated System for Weather Forcasting [Link](_posts/2024-01-02-Automated-System-for-Weather-Forcasting.md) 
 Google AI Hackathon [Link](https://googleai.devpost.com/) -->
 #### 9 Build a Modern Computer from First Principles [ongoing]
