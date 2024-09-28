@@ -4,21 +4,21 @@ title: AI AGENTS
 subtitle: research
 ---
 
-## Resoures
+## 📚
 
 ---
 
-[CS 222: AI Agents and Simulations - Stanford University](https://joonspk-research.github.io/cs222-fall24/index.html)
+[CS 222: AI Agents and Simulations](https://joonspk-research.github.io/cs222-fall24/index.html) - Stanford University
 
-[Large Language Model Agents - UC Berkeley](https://llmagents-learning.org/f24)
-
----
-
-## People
+[CS294/194-196 Large Language Model Agents](https://llmagents-learning.org/f24) - UC Berkeley
 
 ---
 
-[Shunyu Yao](https://ysymyth.github.io/) - Agents
+## 🌟
+
+---
+
+[Shunyu Yao](https://ysymyth.github.io/) - Language Agents
 
 [Joon Sung Park](https://www.joonsungpark.com/) - Generative agents
 
