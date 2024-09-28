@@ -23,10 +23,10 @@ navbar-links:
   Home: "https://chennnxu.github.io/"
   AI Agent & LM: "aiagent"
   Projects: "projects"
-  Articles: "articles"
   Algorithms: "algorithms"
   Evangelist: "evangelist"
   About Me: "aboutme"
+  :bookmark_tabs:: "articles"
   # Skills Network[*New]:
   #   - Data Engineer: "de"
   #   - ML Engineer: "ml"
