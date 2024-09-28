@@ -4,7 +4,15 @@ title: AI AGENTS & LM
 subtitle: study and research
 ---
 
-## 📚
+### 📥
+
+---
+
+[Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter
+
+---
+
+### 📚
 
 ---
 
@@ -14,7 +22,7 @@ subtitle: study and research
 
 ---
 
-## 🌟
+### 🌟
 
 ---
 
