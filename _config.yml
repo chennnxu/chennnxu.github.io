@@ -26,7 +26,7 @@ navbar-links:
   Algorithms: "algorithms"
   Evangelist: "evangelist"
   About Me: "aboutme"
-  :bookmark_tabs:: "articles"
+  📑: "articles"
   # Skills Network[*New]:
   #   - Data Engineer: "de"
   #   - ML Engineer: "ml"
