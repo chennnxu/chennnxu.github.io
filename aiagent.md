@@ -22,7 +22,7 @@ subtitle: study and research
 
 ---
 
-### 🌟
+### 🧑‍💻
 
 ---
 
