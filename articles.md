@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ARTICLES
+title: Arkhived
 subtitle: Learn from others
 ---
 
