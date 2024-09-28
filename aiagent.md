@@ -18,7 +18,7 @@ subtitle: research
 
 ---
 
-[Shunyu Yao](https://ysymyth.github.io/) - Language Agents, Reasoning Agents
+[Shunyu Yao](https://ysymyth.github.io/) - Language Agents, Reasoning Agents, ReAct
 
 [Joon Sung Park](https://www.joonsungpark.com/) - Generative agents
 
