@@ -10,8 +10,6 @@ subtitle: study and research
 
 [Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter
 
----
-
 ### 📚
 
 ---
@@ -20,8 +18,6 @@ subtitle: study and research
 
 [CS294/194-196 Large Language Model Agents](https://llmagents-learning.org/f24) - UC Berkeley
 
----
-
 ### 🧑‍💻
 
 ---
@@ -29,5 +25,3 @@ subtitle: study and research
 [Shunyu Yao](https://ysymyth.github.io/) - Language Agents, Reasoning Agents, ReAct
 
 [Joon Sung Park](https://www.joonsungpark.com/) - Generative agents
-
----
