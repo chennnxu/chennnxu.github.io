@@ -23,4 +23,5 @@ subtitle: study and research
 
 [Chi Wang](https://x.com/chi_wang_) - AI Agents, Agentic AI Framework, AutoGen  
 [Shunyu Yao](https://ysymyth.github.io/) - Language Agents, Reasoning Agents, ReAct  
-[Joon Sung Park](https://www.joonsungpark.com/) - Generative agents
+[Joon Sung Park](https://www.joonsungpark.com/) - Generative agents  
+[Jerry Liu](https://x.com/jerryjliu0) - Agentic RAG, LlamaIndex  
