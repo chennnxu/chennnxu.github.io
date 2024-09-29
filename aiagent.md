@@ -30,6 +30,6 @@ subtitle: study and research
 
 ### 🚢
 
-[CAMEL-AI](https://www.camel-ai.org/) - 1st LLM multi-agent framework  
+[CAMEL-AI](https://www.camel-ai.org/) - LLM multi-agent framework  
 
 ---
