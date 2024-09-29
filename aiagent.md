@@ -22,6 +22,7 @@ subtitle: study and research
 ### 🧑‍💻
 
 [Chi Wang](https://x.com/chi_wang_) - AI Agents, Agentic AI Framework, [AutoGen](https://microsoft.github.io/autogen/)  
+[Qingyun Wu](https://qingyun-wu.github.io/) - Agentic AI, [AutoGen](https://microsoft.github.io/autogen/)  
 [Shunyu Yao](https://ysymyth.github.io/) - Language Agents, Reasoning Agents, ReAct  
 [Joon Sung Park](https://www.joonsungpark.com/) - Generative agents  
 [Jerry Liu](https://x.com/jerryjliu0) - Agentic RAG, [LlamaIndex](https://www.llamaindex.ai/)  
@@ -33,5 +34,6 @@ subtitle: study and research
 [AutoGen](https://microsoft.github.io/autogen/) - OSS framework for agentic AI from Mircrosoft  
 [LlamaIndex](https://www.llamaindex.ai/) - Data Framework for LLM Application  
 [CAMEL-AI](https://www.camel-ai.org/) - LLM multi-agent framework  
+[Altera.ai](https://altera.al/) - Agents civilization  
 
 ---
