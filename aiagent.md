@@ -31,7 +31,7 @@ subtitle: study and research
 
 ### 🚢
 
-[LangChain](https://www.langchain.com/) - Build AI/LLM apps from prototype to production
+[LangChain](https://www.langchain.com/) - Build AI/LLM apps from prototype to production  
 [AutoGen](https://microsoft.github.io/autogen/) - OSS framework for agentic AI from Mircrosoft  
 [LlamaIndex](https://www.llamaindex.ai/) - Data Framework for LLM Application  
 [CAMEL-AI](https://www.camel-ai.org/) - LLM multi-agent framework  
