@@ -27,3 +27,9 @@ subtitle: study and research
 [Jerry Liu](https://x.com/jerryjliu0) - Agentic RAG, LlamaIndex  
 
 ---
+
+### 🚢
+
+[CAMEL-AI](https://www.camel-ai.org/) - 1st LLM multi-agent framework  
+
+---
