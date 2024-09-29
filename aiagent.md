@@ -6,21 +6,21 @@ subtitle: study and research
 
 ---
 
-### 📥
+#### 📥
 
 [Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter
 
 ---
 
-### 📚
+#### 📚
 
 [CS 222: AI Agents and Simulations](https://joonspk-research.github.io/cs222-fall24/index.html) - Stanford University  
-[CS294/194-196 Large Language Model Agents](https://llmagents-learning.org/f24) - UC Berkeley
+[CS294/194-196 Large Language Model Agents](https://llmagents-learning.org/f24) - UC Berkeley  
 [LLM智能应用开发](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310) - Nanjing University  
 
 ---
 
-### 🧑‍💻
+#### 🧑‍💻
 
 [Chi Wang](https://x.com/chi_wang_) - AI Agents, Agentic AI Framework, [AutoGen](https://microsoft.github.io/autogen/)  
 [Qingyun Wu](https://qingyun-wu.github.io/) - Agentic AI, [AutoGen](https://microsoft.github.io/autogen/)  
@@ -30,7 +30,7 @@ subtitle: study and research
 
 ---
 
-### 🚢
+#### 🚢
 
 [LangChain](https://www.langchain.com/) - Build AI/LLM apps from prototype to production  
 [AutoGen](https://microsoft.github.io/autogen/) - OSS framework for agentic AI from Mircrosoft  
