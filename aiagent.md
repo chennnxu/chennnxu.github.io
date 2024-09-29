@@ -16,6 +16,7 @@ subtitle: study and research
 
 [CS 222: AI Agents and Simulations](https://joonspk-research.github.io/cs222-fall24/index.html) - Stanford University  
 [CS294/194-196 Large Language Model Agents](https://llmagents-learning.org/f24) - UC Berkeley
+[LLM智能应用开发](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310) - Nanjing University  
 
 ---
 
