@@ -24,9 +24,9 @@ navbar-links:
   AI Agent & LM: "aiagent"
   Projects: "projects"
   Algorithms: "algorithms"
-  🌻: "mentor"
+  # 🌻: "mentor"
   # About Me: "aboutme"
-  📑: "articles"
+  # 📑: "articles"
   # Skills Network[*New]:
   #   - Data Engineer: "de"
   #   - ML Engineer: "ml"
