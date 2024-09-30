@@ -26,7 +26,8 @@ subtitle: study and research
 [Qingyun Wu](https://qingyun-wu.github.io/) - Agentic AI, [AutoGen](https://microsoft.github.io/autogen/)  
 [Shunyu Yao](https://ysymyth.github.io/) - Language Agents, Reasoning Agents, [ReAct](https://react-lm.github.io/)  
 [Joon Sung Park](https://www.joonsungpark.com/) - [Generative agents](https://arxiv.org/abs/2304.03442)  
-[Jerry Liu](https://x.com/jerryjliu0) - Agentic RAG, [LlamaIndex](https://www.llamaindex.ai/)  
+[Jerry Liu](https://x.com/jerryjliu0) - Agentic RAG, [LlamaIndex](https://www.llamaindex.ai/)    
+[Jim Fan](https://jimfan.me/) - Foundation Agent  
 
 ---
 
@@ -44,5 +45,11 @@ subtitle: study and research
 #### 🗃️
 
 [Pinecone](https://www.pinecone.io/) - The vector database to build knowledgeable AI  
+
+---
+
+#### Examples
+
+[Devon](https://github.com/entropy-research/Devon) - Coding Agents  
 
 ---
