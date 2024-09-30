@@ -8,7 +8,8 @@ subtitle: study and research
 
 #### 📥
 
-[Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter
+[Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter  
+[TuringPost](https://www.turingpost.com/) - Newsletter exploring AI & ML  
 
 ---
 
@@ -45,11 +46,5 @@ subtitle: study and research
 #### 🗃️
 
 [Pinecone](https://www.pinecone.io/) - The vector database to build knowledgeable AI  
-
----
-
-#### Examples
-
-[Devon](https://github.com/entropy-research/Devon) - Coding Agents  
 
 ---
