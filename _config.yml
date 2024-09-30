@@ -26,7 +26,7 @@ navbar-links:
   Algorithms: "algorithms"
   🌻: "mentor"
   # About Me: "aboutme"
-  📑: https://www.notion.so/Archived-1114e95d724680168735e658ad7ca892?pvs=4 #"articles"
+  📑: "articles"
   # Skills Network[*New]:
   #   - Data Engineer: "de"
   #   - ML Engineer: "ml"
