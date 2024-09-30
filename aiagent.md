@@ -10,6 +10,7 @@ subtitle: study and research
 
 [Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter  
 [TuringPost](https://www.turingpost.com/) - Newsletter exploring AI & ML  
+[Bloomberg](https://www.bloomberg.com/technology) - Bloomberg Tech News  
 
 ---
 
