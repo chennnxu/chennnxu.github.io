@@ -37,5 +37,12 @@ subtitle: study and research
 [LlamaIndex](https://www.llamaindex.ai/) - Data Framework for LLM Application  
 [CAMEL-AI](https://www.camel-ai.org/) - LLM multi-agent framework  
 [Altera.ai](https://altera.al/) - Agents civilization  
+[AgentOps](https://www.agentops.ai/) - Developer platform to test and debug AI agents  
+
+---
+
+#### 🗃️
+
+[Pinecone](https://www.pinecone.io/) - The vector database to build knowledgeable AI  
 
 ---
