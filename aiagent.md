@@ -45,8 +45,3 @@ subtitle: study and research
 
 ---
 
-#### 🗃️
-
-[Pinecone](https://www.pinecone.io/) - The vector database to build knowledgeable AI  
-
----
