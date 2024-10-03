@@ -23,7 +23,7 @@ navbar-links:
   Home: "https://chennnxu.github.io/"
   # AI Agent & LM: "https://chennnxu.gitbook.io/agi" #"aiagent"
   Projects: "projects"
-  Algorithms: "algorithms"
+  # Algorithms: "algorithms"
   # 🌻: "mentor"
   # About Me: "aboutme"
   # 📑: "articles"
