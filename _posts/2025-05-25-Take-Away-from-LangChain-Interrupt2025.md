@@ -18,7 +18,7 @@ tags: [LangChain, Agent]
 - Machine learning
 
 <div align = "center">
-<img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "400" alt="ingredients" align=center />
+<img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "600" alt="ingredients" align=center />
 </div>
 
 Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is also a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
@@ -33,7 +33,7 @@ Over the past year, there have been a lot of different models coming on to the p
 This is where the original LangChain package turned into. A big part of that was the *integrations*, a place for integrations of all types but specifically for language models as we've seen this be the key component of building these applications and it's provided a a stable ecosystem for interacting with all the different model providers.
 
 <div align = "center">
-<img src="/assets/img/langchain_interrupt_2025/ecosystem.png" width = "400" alt="ingredients" align=center />
+<img src="/assets/img/langchain_interrupt_2025/ecosystem.png" width = "600" alt="ecosystem" align=center />
 </div>
 
 #### Belief #2: Reliable Agents start with the right context
