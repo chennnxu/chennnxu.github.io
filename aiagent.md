@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI AGENTS
-subtitle: Opionions
+subtitle: Opinions
 ---
 
 ---
