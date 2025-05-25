@@ -8,7 +8,7 @@ thumbnail-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 tags: [LangChain, Agent]
 ---
 
-> LLMs are amazing and super powerful. They can transform the types of applications that we can build. And there's a lot of tooling that needs to be built around them to really help us take advantage of all their capabilities.
+LLMs are amazing and super powerful. They can transform the types of applications that we can build. And there's a lot of tooling that needs to be built around them to really help us take advantage of all their capabilities.
 
 ### 🤖️The ingredients of building agents
 
@@ -80,9 +80,11 @@ So these are three beliefs about what it's like to build agents now.
 
 #### Belief #4: AI observability is different
 
-As we see more and more agents going into production, one of the things that we're starting to believe more strongly is that AI observability is different than traditional observability. When you're dealing with agents, you're getting all of these *large unstructured often multimodal payloads* that are coming in to a platform. And those are some technical differences from traditional observability. But also what's different is the user persona that the observability logs are being used for. They're not built for an SRE. They're *built for this agent engineer* persona. And that needs to bring in some of these ML concepts, some of that product concepts, some of that prompt engineering context and provide this different type of AI observability. And we've always had AI observability in Langmith from traditional metrics to business metrics to more qualitative metrics.
+As we see more and more agents going into production, one of the things that we're starting to believe more strongly is that AI observability is different than traditional observability. When you're dealing with agents, you're getting all of these *large, unstructured often multimodal payloads* that are coming into a platform. And those are some technical differences from traditional observability. But also what's different is the user persona that the observability logs are being used for. They're not built for an SRE. They're *built for agent engineer* persona. And that needs to bring in some of these ML concepts, some of that product concepts, some of that prompt engineering context and provide this different type of AI observability. And we've always had AI observability in LangSmith from traditional metrics to business metrics to more qualitative metrics. And metrics around agents. So you can track the run counts of tools, the latencies, the errors. And then also trajectory observability so you can see which paths your agents are taking and again the latency and errors associated with that. And so this AI Oberservability available in Langmith.
 
-And today we're excited to launch a new series of metrics around agents. So specifically, we're launching better insight into the tools that your agents are using. So you can track the run counts of tools, the latencies, the errors. And then we're also launching trajectory observability so you can see which paths your agents are taking and again the latency and errors associated with that. And so this AI Oberservability available today in Langmith. If you go and send a bunch of traces, you can start to see this populate. 
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langsmith_observability.png" width="800" alt="langsmith_observability" align=center />
+</div>
 
 #### Belief #5: Everyone will be an agent builder
 
