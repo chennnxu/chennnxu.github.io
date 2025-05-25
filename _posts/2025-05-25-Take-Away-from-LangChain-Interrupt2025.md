@@ -21,18 +21,23 @@ tags: [LangChain, Agent]
 <img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "400" alt="ingredients" align=center />
 </div>
 
-Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
+Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is also a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
 
 ### 💡What will the agents of the future look like?
 
-We want to see what those agents look like and then build tools to help build those agents.
-as we think about what these agents look like, there are a few beliefs that we have. And so I want to walk through three of them which we think are more kind of like in the present now and then three of them which we think are are in the future.
+Look what agents like and so then LangChain build tools to help build those agents. There are a few beliefs that they have. Three of them are more kind of like in the present/now and three of them which are in the future.
 
-**Belief #1: Agents rely on many different models**
-So the *first* belief that we have is that agents will rely on many different models. So what does that mean? So over the past year and and and last few months uh specifically there have been a lot of different models coming on to the playing field. They have different strengths and weaknesses. Some of them are really costly but they can reason for a long time. Some of them are faster and they're better for specific tasks. Some of them are great at reasoning. Some of them are great at writing. And so there's this whole ecosystem of models out there giving developers the the the choice to choose which model is best for them at a particular point in their agent. So an agent might use many different models and we see that being an increasingly common thing.
-And this is really where we've turned the original lang chain package into. So there was a lot in the original ling chain. A lot of it was aimed at making it easy to get started. A big part of that was the *integrations* and that's really what we've focused and doubled down on in the past year or so. We've turned Langchain into a place for integrations of all types but specifically for language models as we've seen this be the key component of building these applications and it's provided a a stable ecosystem for interacting with all the different model providers.
+#### Belief #1: Agents rely on many different models
 
-**Belief #2: Reliable Agents start with the right context**
+Over the past year, there have been a lot of different models coming on to the playing field. They have different strengths and weaknesses. Some of them are really costly but they can reason for a long time. Some of them are faster and they're better for specific tasks. Some of them are great at reasoning. Some of them are great at writing. And so this whole ecosystem of models out there giving developers the choice to choose which model is best for them at a particular point in their agent. So an agent might use many different models and we see that being an increasingly common thing.
+This is where the original LangChain package turned into. A big part of that was the *integrations*, a place for integrations of all types but specifically for language models as we've seen this be the key component of building these applications and it's provided a a stable ecosystem for interacting with all the different model providers.
+
+<div align = "center">
+<img src="/assets/img/langchain_interrupt_2025/ecosystem.png" width = "400" alt="ingredients" align=center />
+</div>
+
+#### Belief #2: Reliable Agents start with the right context
+
 The second belief that we have is that reliable agents start with the right context. So what does this mean? So prompting is really important. The prompt that you construct to pass into the LLM will determine what comes out of the LM that will determine the behavior of the agent. This prompt isn't just one big string.
 
 It's actually made up of a bunch of different parts. And all these parts come from different places. So they could come from a system message. They could come from user input. They could come from tools. They could come from retrieval steps. They could come from the the conversation history. And so when you construct this context that you're passing into the LLM, it's really really important to be able to control exactly what goes in there because that will affect what comes out.
@@ -51,22 +56,25 @@ nd of course on top of this control we've tried to add in functionality that doe
 - 4.long-term memory
 - 5.durable execution
 
-**Belief #3: Building agents is a team sport**
+#### Belief #3: Building agents is a team sport
+
 But we think there are all these different areas prompting product machine learning that are involved in building agents. And yes, ideally one person, the agent engineer, would have all of these assets, but it's early on. We're still figuring out what these means.
 And so building agents is becoming a team sport. And the way that we're helping with that or trying to help with that is *LangSmith*. So Lang Smith, we think of observability, evaluability that it provides as a really integral way for everyone, but especially *product* people to see what's going on inside the agent. So you can see all the steps that are happening, you can see the inputs and outputs. And so if you're trying to replicate a human workflow that you understand, this provides the best kind of like pane of glass into what's happening. I mentioned eval being important, this is where the *machine learning* knowledge comes into play. And so we try to make it incredibly easy to build data sets and run evals both offline and online in Langmith and provide that team functionality there. And finally, *prompting*. Prompting is a key part of building agents. We have a prompt hub. We have a prompt playground. The reason that all of these are in the same platform, Langmith, is because we think agent building agents is a team sport and there needs to be this platform for all these people of different backgrounds and strengths to collaborate on agents in one place.
 
 So those are three beliefs that we've built up over the past few years about what it's like to build agents now.
 
-- where do we think the industry is headed?
+### Where do we think the industry is headed?
 
-**Belief #4: AI observability is different**
+#### Belief #4: AI observability is different
+
 What are some beliefs we have about the future? As we see more and more agents going into production, one of the things that we're starting to believe more strongly is that AI observability is different than tra than traditional observability.
 
 So what I mean by that is when you're dealing with agents, you're getting all of these *large unstructured often multimodal payloads* that are coming in to a platform. And those are some technical differences from traditional observability. But also what's different is the user persona that the observability logs are being used for. They're not built for an SRE. They're *built for this agent engineer* persona. And that needs to bring in some of these ML concepts, some of that product concepts, some of that prompt engineering context and provide this different type of AI observability. And we've always had AI observability in Langmith from traditional metrics to business metrics to more qualitative metrics.
 
 And today we're excited to launch a new series of metrics around agents. So specifically, we're launching better insight into the tools that your agents are using. So you can track the run counts of tools, the latencies, the errors. And then we're also launching trajectory observability so you can see which paths your agents are taking and again the latency and errors associated with that. And so this AI Oberservability available today in Langmith. If you go and send a bunch of traces, you can start to see this populate. 
 
-**Belief #5: Everyone will be an agent builder**
+#### Belief #5: Everyone will be an agent builder
+
 The next belief we have is that everyone will build be an agent builder. So when we talk about this agent engineer, it it combines these four different aspects. And realistically right now it's so early on that no one really is at the center of all this and and has all of these skills.
 
 And so yes, we want to make it possible for people to collaborate and build agents as a team sport. and this is Linkmith. But we also want to try to move folks who are maybe in one of these quadrants in a traditional engineering background or or in a product background or in an ML background, move them more towards the center so that they can build agents.
@@ -85,7 +93,8 @@ And then finally we want to make it possible for more and more people who aren't
 
 And so we want to make it more and more easy for folks to build agents in uh a no code way. And so today we're launching open source *Open Agent platform*. It's powered by Langraph platform. It uses agent templates to allow people to build agents in a no code way. It comes with a tool server that uses MCP. It comes with Rag as a service so you can easily get started with anything related to Rag and it contains an agent registry so that you can see all the different agents that you've created. And so this is open source. You can check it out today.
 
-**Belief #6: Deployment of the Agents is the next hurdle**
+#### Belief #6: Deployment of the Agents is the next hurdle
+
 And finally, the last belief we have is that deployment of agents is the next hurdle.
 So, it's possible to build agents. We we've we've we've talked about what it looks like. Once you build an agent, you then need to deploy it. And and and and sometimes this can be easy. Sometimes you can stand up kind of like a traditional kind of like web server and put it behind it. But we see more and more that agents are looking a little bit different than traditional web apps.
 
