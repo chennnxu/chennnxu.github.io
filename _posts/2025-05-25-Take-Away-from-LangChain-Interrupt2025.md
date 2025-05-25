@@ -88,23 +88,29 @@ As we see more and more agents going into production, one of the things that we'
 
 #### Belief #5: Everyone will be an agent builder
 
-The next belief we have is that everyone will build be an agent builder. So when we talk about this agent engineer, it it combines these four different aspects. And realistically right now it's so early on that no one really is at the center of all this and and has all of these skills.
+When we talk about this agent engineer, it combines four different aspects. And realistically right now it's so early on that no one really is at the center of all this and has all of these skills. To make it possible for people to collaborate and build agents as a team sport. and this is LangSmith. But to folks who are maybe in one of these quadrants, in a traditional engineering background or or in a product background or in an ML background, move them more towards the center so that they can build agents.
 
-And so yes, we want to make it possible for people to collaborate and build agents as a team sport. and this is Linkmith. But we also want to try to move folks who are maybe in one of these quadrants in a traditional engineering background or or in a product background or in an ML background, move them more towards the center so that they can build agents.
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/3_levels.png" width="800" alt="3_levels" align=center />
+</div>
 
-So what does that mean? So if if we think about developers who don't have a background in AI and aren't familiar with this, how can we enable them to build agents more easily? The thing that we've been building towards this, we've launched a few things over the past few months in this is what we're calling *Langraph Prebuilts*.
+So if we think about developers who don't have a background in AI and aren't familiar with this, how can we enable them to build agents more easily? *Langraph Prebuilts*. So these are common agent architectures for the variety of different agent types that we see out there. So single agents, agent swarms, supervisor agents, there's some other ones as well. It makes really easy for anyone who doesn't understand agents or is coming to it from an engineering background to easily get started with these common architectures.
 
-So these are common agent architectures for the variety of different agent types that we see out there. So single agents, agent swarms, supervisor agents, there's some other ones as well. We want to make it really easy for anyone who doesn't understand agents or is coming to it from an engineering background to easily get started with these common architectures.
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langgraph_prebuilts.png" width="800" alt="langgraph_prebuilts" align=center />
+</div>
 
-At the next level, we want to make it possible for people who are on these product engineering teams but maybe not developers themselves to be more involved in building agents. So, one of the coolest things that we launched maybe a year ago at this point is *LangGraph Studio*. And so today we're excited to give it a facelift.
+At the next level, for people who are on these product engineering teams but maybe not developers themselves to be more involved in building agents. So, one of the coolest things is *LangGraph Studio*. 
 
-We're launching Langrass Studio V2. Uh no more desktop app so you can run it if if if you're not on Mac anymore. Um and it comes with a bunch of improvements as well. So you can see all the LM calls in a playground directly in the studio. You can build up data sets here. You can you can modify prompts as well.
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langgraph_studio.png" width="800" alt="langgraph_studio" align=center />
+</div>
 
-So you can start to modify the agent and and I think most excitingly is you can pull down production traces from Langmith into your local langraph studio so that you can start to modify the agent. It will then hot reload and then you can you can try to fix these production issues that you're seeing.
+And then finally if we want to make it possible for people who aren't developers at all to build agents from scratch, to build agents in a no code way. *Open Agent platform*. It's powered by LangGraph platform. It uses agent templates to allow people to build agents in a no code way. It comes with a tool server that uses MCP. It comes with RAG as a service so you can easily get started with anything related to RAG and it contains an agent registry so that you can see all the different agents that you've created.
 
-And then finally we want to make it possible for more and more people who aren't developers at all to build agents from scratch, not just on product engineering teams. And so when we think about folks at larger enterprises, there are often a number of tasks that they want to do and build agents for and and and it's tough to get kind of like engineering resources to start.
-
-And so we want to make it more and more easy for folks to build agents in uh a no code way. And so today we're launching open source *Open Agent platform*. It's powered by Langraph platform. It uses agent templates to allow people to build agents in a no code way. It comes with a tool server that uses MCP. It comes with Rag as a service so you can easily get started with anything related to Rag and it contains an agent registry so that you can see all the different agents that you've created. And so this is open source. You can check it out today.
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/open_agent_platform.png" width="800" alt="open_agent_platform" align=center />
+</div>
 
 #### Belief #6: Deployment of the Agents is the next hurdle
 
