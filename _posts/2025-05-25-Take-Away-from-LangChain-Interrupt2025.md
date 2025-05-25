@@ -2,15 +2,11 @@
 layout: post
 title: Take Away from LangChain Interrupt 2025
 # subtitle: Black Myth
-cover-img: /assets/img/langchain_interrupt_2025.png
-thumbnail-img: /assets/img/langchain_interrupt_2025.png
+cover-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
+thumbnail-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 # share-img: /assets/img/path.jpg
 tags: [LangChain, Agent]
 ---
-
-## 💡Inspiration
-
-[Interrupt 2025 Keynote - Harrison Chase (LangChain) - YouTube](https://www.youtube.com/watch?v=DrygcOI-kG8)
 
 ### The Company
 
@@ -118,3 +114,4 @@ And then there are a few different deployment options. So we have a cloud SAS of
 ## Resources
 
 - [LangChain Interrupt 2025](https://interrupt.langchain.com)
+- [Interrupt 2025 Keynote - Harrison Chase (LangChain) - YouTube](https://www.youtube.com/watch?v=DrygcOI-kG8)
