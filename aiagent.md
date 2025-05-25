@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI AGENTS & LM
-subtitle: study and research
+title: AI AGENTS
+subtitle: Opionions
 ---
 
 ---

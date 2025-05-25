@@ -9,7 +9,7 @@ subtitle: 很酷,不聊天
 
 __The main interest in life and work is to become someone else that you were not in the beginning. - Michel Foucault__
 
-I am a passionate ML/AI full-stack Engineer, an Educator, a lifelong learner ...
+<!-- I am a passionate ML/AI full-stack Engineer, an Educator, a lifelong learner ... -->
 
 <!-- AI application developer -->
 

@@ -21,9 +21,9 @@ author: CHEN
 
 navbar-links:
   Home: "https://chennnxu.github.io/"
-  # AI Agent & LM: "https://chennnxu.gitbook.io/agi" #"aiagent"
   Projects: "projects"
-  # Algorithms: "algorithms"
+  AI Agent: "aiagent"
+  Algorithms: "algorithms"
   # 🌻: "mentor"
   # About Me: "aboutme"
   # 📑: "articles"

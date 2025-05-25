@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ALGORITHMS
-subtitle: Problem solving
+subtitle: Just for fun
 ---
 
 2 **Dining philosophers problem** [Link](https://en.m.wikipedia.org/wiki/Dining_philosophers_problem)  
