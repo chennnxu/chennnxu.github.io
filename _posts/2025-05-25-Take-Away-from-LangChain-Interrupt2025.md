@@ -120,6 +120,16 @@ Once we build an agent, then need to deploy it. And sometimes this can be easy, 
 <img src="/assets/img/langchain_interrupt_2025/langgraph_platform.png" width="800" alt="langgraph_platform" align=center />
 </div>
 
+### 🤔Summary
+
+- LangChain 多模型glue层
+- LangGraph 智能体orchestrator
+- LangSmith 团队协作+AI observation
+- LangGraph Prebuilts 面向传统Engineer
+- LangGraph Studio 面向产品Engineer
+- Open Agent Platform 低代码 for everyone
+- LangGraph Platform 部署和服务化
+
 ## Resources
 
 - [LangChain Interrupt 2025](https://interrupt.langchain.com)
