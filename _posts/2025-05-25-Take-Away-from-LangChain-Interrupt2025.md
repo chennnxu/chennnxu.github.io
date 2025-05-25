@@ -18,7 +18,7 @@ tags: [LangChain, Agent]
 - Machine learning
 
 <div align = "center">
-<img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "600" alt="ingredients" align=center />
+<img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "800" alt="ingredients" align=center />
 </div>
 
 Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is also a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
@@ -33,28 +33,26 @@ Over the past year, there have been a lot of different models coming on to the p
 This is where the original LangChain package turned into. A big part of that was the *integrations*, a place for integrations of all types but specifically for language models as we've seen this be the key component of building these applications and it's provided a a stable ecosystem for interacting with all the different model providers.
 
 <div align = "center">
-<img src="/assets/img/langchain_interrupt_2025/ecosystem.png" width = "600" alt="ecosystem" align=center />
+<img src="/assets/img/langchain_interrupt_2025/ecosystem.png" width = "800" alt="ecosystem" align=center />
 </div>
 
 #### Belief #2: Reliable Agents start with the right context
 
-The second belief that we have is that reliable agents start with the right context. So what does this mean? So prompting is really important. The prompt that you construct to pass into the LLM will determine what comes out of the LM that will determine the behavior of the agent. This prompt isn't just one big string.
+So prompting is really important. The prompt that you construct to pass into the LLM will determine what comes out of the LLM that will determine the behavior of the agent. This prompt isn't just one big string. It's actually made up of a bunch of different parts. And all these parts come from different places. So they could come from a system message. They could come from user input. They could come from tools. They could come from retrieval steps. They could come from the conversation history. And so when you construct this context that you're passing into the LLM, it's really really important to be able to control exactly what goes in there because that will affect what comes out.
 
-It's actually made up of a bunch of different parts. And all these parts come from different places. So they could come from a system message. They could come from user input. They could come from tools. They could come from retrieval steps. They could come from the the conversation history. And so when you construct this context that you're passing into the LLM, it's really really important to be able to control exactly what goes in there because that will affect what comes out.
+And so in order to provide this control and flexibility in this context engineering, They've started moving all of agent orchestration over to ***LangGraph***. You can create the flow of the agent that you want. So, you can do all the necessary steps to get the right context and then you can pass that in whatever form to the LLM. And so, you have supreme control over all of it. And this controllability to build the cognitive architecture that you want is a key selling point of LangGraph as the ***agent orchestration framework***.
 
-And so in order to provide this control and flexibility in this in this context engineering, we've started moving all of our agent orchestration over to *Langraph*. So we launched Langraph a little over a year ago. It's an extremely low-level unopinionated framework for building agents. There's no hidden prompts. There's no hidden cognitive architectures.
-
-You can create the the the the flow of the agent that you want. So, you can do all the necessary steps to get the right context and then you can pass that in whatever form to the LLM. And so, you have supreme control over kind of like all of it. And this this controllability to build the cognitive architecture that you want is a key selling point of of of of langraph as the *agent orchestration framework*.
-
-*Full control over the cognitive architecture of your application, so you can get the right context.*
-
-nd of course on top of this control we've tried to add in functionality that doesn't get in the way of adding the right context.
+Full control over the cognitive architecture of your application, so you can get the right context.
 
 - 1.streaming
 - 2.human in the loop
 - 3.short-term memory
 - 4.long-term memory
 - 5.durable execution
+
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/context.png" width="800" alt="context" align=center />
+</div>
 
 #### Belief #3: Building agents is a team sport
 
