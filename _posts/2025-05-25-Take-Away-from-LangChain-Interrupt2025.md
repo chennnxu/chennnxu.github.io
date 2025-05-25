@@ -2,7 +2,7 @@
 layout: post
 title: Take Away from LangChain Interrupt 2025
 # subtitle: Black Myth
-# cover-img: /assets/img/path.jpg
+cover-img: /assets/img/langchain_interrupt_2025.png
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 tags: [LangChain, Agent]
