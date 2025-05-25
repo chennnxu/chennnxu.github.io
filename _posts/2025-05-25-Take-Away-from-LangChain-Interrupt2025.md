@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take Away from LangChain Interrupt 2025
-# subtitle: Black Myth
+subtitle: THE AI AGENT CONFERENCE BY LANGCHAIN
 cover-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 thumbnail-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 # share-img: /assets/img/path.jpg
@@ -114,18 +114,11 @@ And then finally if we want to make it possible for people who aren't developers
 
 #### Belief #6: Deployment of the Agents is the next hurdle
 
-And finally, the last belief we have is that deployment of agents is the next hurdle.
-So, it's possible to build agents. We we've we've we've talked about what it looks like. Once you build an agent, you then need to deploy it. And and and and sometimes this can be easy. Sometimes you can stand up kind of like a traditional kind of like web server and put it behind it. But we see more and more that agents are looking a little bit different than traditional web apps.
+Once we build an agent, then need to deploy it. And sometimes this can be easy, like a traditional web server and put it behind it. But we see more and more that agents are looking a little bit different than traditional web apps. Specifically, they're often *long running*.They're often *bursty* in nature, and they're *flaky*. They're flaky in a bunch of different ways. The calls to the LLM might fail, also you want to have human in the loop because these LLMs might not do what you expect. And you need some statefulness in these agents to allow this human in the loop or human on the loop interaction patterns. *Langraph Platform*. It scales horizontally so it can handle burstiness. It's designed for these long running workloads and you can actually expose the agents that you deploy here as MCP servers. It also comes with a control plane where you can discover the agents that everyone at your or has deployed. You can share agents. You can reuse these agents with templates. And then there are a few different deployment options. So we have a cloud SAS offering as well as hybrid and then fully self-hosted options.
 
-So, specifically, they're often *long running*. We see agents, deep research is a great example, that takes 10 minutes to run. We see agents that are taking an hour or 12 hours to run. They're often *bursty* in nature. So, especially if you kick them off as background jobs, you might be kicking them off hundreds or thousands at a time and they're *flaky*.
-
-They're flaky in a bunch of different ways. The, you know, the calls to the LLM might fail, but also you want to have human in the loop because these LLMs might not do what you expect. And so, you need some statefulness in these agents to allow this human in the loop or human on the loop interaction patterns. And so we we've seen these patterns crop up.
-
-(20:48) We think that agents are going to become more and more longunning, more and more bursty, and more and more stateful. And so we want to help people tackle this deployment challenge. And so *Langraph Platform* we launched in beta about a year ago and today we're excited to announce that it's officially generally available. So what's in Langraph platform? If you haven't checked it out, there are 30 different API endpoints that we stand up for everything from streaming to human in the loop to memory.
-
-It scales horizontally so it can handle burstiness. It's designed for these longunning workloads and you can actually expose the agents that you deploy here as MCP servers. It also comes with a control plane where you can discover the agents that everyone at your or has deployed. You can share agents. You can reuse these agents with templates.
-
-And then there are a few different deployment options. So we have a cloud SAS offering as well as hybrid and then fully self-hosted options.
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langgraph_platform.png" width="800" alt="langgraph_platform" align=center />
+</div>
 
 ## Resources
 
