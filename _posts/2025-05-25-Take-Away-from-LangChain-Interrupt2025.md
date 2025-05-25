@@ -21,7 +21,7 @@ tags: [LangChain, Agent]
 <img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "800" alt="ingredients" align=center />
 </div>
 
-Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is also a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
+Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is also a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that we're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
 
 ### 💡What will the agents of the future look like?
 
@@ -44,11 +44,11 @@ And so in order to provide this control and flexibility in this context engineer
 
 Full control over the cognitive architecture of your application, so you can get the right context.
 
-- 1.streaming
-- 2.human in the loop
-- 3.short-term memory
-- 4.long-term memory
-- 5.durable execution
+- streaming
+- human in the loop
+- short-term memory
+- long-term memory
+- durable execution
 
 <div align="center">
 <img src="/assets/img/langchain_interrupt_2025/context.png" width="800" alt="context" align=center />
@@ -56,11 +56,27 @@ Full control over the cognitive architecture of your application, so you can get
 
 #### Belief #3: Building agents is a team sport
 
-We think there are all these different areas (prompting, engineeer, product, machine learning) that are involved in building agents. Ideally one person, the agent engineer, would have all of these assets, but it's early on. We're still figuring out what these means. And so building agents is becoming a team sport. *LangSmith* helps. The observability, evaluability that it provides as a really integral way for everyone, but especially *product* people to see what's going on inside the agent. So you can see all the steps that are happening, you can see the inputs and outputs. And so if you're trying to replicate a human workflow that you understand, this provides the best kind of like pane of glass into what's happening. Eval being important, this is where the *machine learning* knowledge comes into play. It incredibly easy to build data sets and run evals both offline and online in LangSmith. And finally, *prompting*. Prompting is a key part of building agents. There is a prompt hub and prompt playground. The reason that all of these are in the same platform, LangSmith, is because agent building is a team sport and there needs to be this platform for all these people of different backgrounds and strengths to collaborate on agents in one place.
+We think there are all these different areas (prompting, engineeer, product, machine learning) that are involved in building agents. Ideally one person, the agent engineer, would have all of these assets, but it's early on. We're still figuring out what these means. And so building agents is becoming a team sport. *LangSmith* helps. The observability, evaluability that it provides as a really integral way for everyone, but especially *product* people to see what's going on inside the agent. So you can see all the steps that are happening, you can see the inputs and outputs. And so if you're trying to replicate a human workflow that you understand, this provides the best kind of like pane of glass into what's happening. 
+
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langsmith_tracing.png" width="800" alt="langsmith_tracing" align=center />
+</div>
+
+Eval being important, this is where the *machine learning* knowledge comes into play. It incredibly easy to build data sets and run evals both offline and online in LangSmith. 
+
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langsmith_ml.png" width="800" alt="langsmith_ml" align=center />
+</div>
+
+And finally, *prompting*. Prompting is a key part of building agents. There is a prompt hub and prompt playground. The reason that all of these are in the same platform, LangSmith, is because agent building is a team sport and there needs to be this platform for all these people of different backgrounds and strengths to collaborate on agents in one place.
+
+<div align="center">
+<img src="/assets/img/langchain_interrupt_2025/langsmith_prompting.png" width="800" alt="langsmith_prompting" align=center />
+</div>
 
 So these are three beliefs about what it's like to build agents now.
 
-### Where do we think the industry is headed?
+### 😄Where do we think the industry is headed?
 
 #### Belief #4: AI observability is different
 
