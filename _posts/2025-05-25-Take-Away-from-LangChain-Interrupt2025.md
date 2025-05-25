@@ -8,34 +8,22 @@ thumbnail-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 tags: [LangChain, Agent]
 ---
 
-### The Company
+> LLMs are amazing and super powerful. They can transform the types of applications that we can build. And there's a lot of tooling that needs to be built around them to really help us take advantage of all their capabilities.
 
-Little over two years ago, we launched Langchain as an open-source project, month before chatGPT was launched.
-
-We we think that LLMs are amazing. We think they're super powerful. They can transform the types of applications that we can build. but we think there's a lot of tooling that needs to be built around them to really help us take advantage of of all their capabilities.
-
-### The ingredients of building agents
+## 🤖️The ingredients of building agents
 
 - Prompting
 - Engineering
 - Product(Product sense & Product skills)
 - Machine learning
 
-And so being good at prompting is is is a core component of building these agents.
+<div>
+<img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "400" alt="ingredients" align=center />
+</div>
 
-We also think that engineering is a core component. We think that there is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the the the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point in time, whether it's the deployment, there's a lot of engineering that goes into building agents.
+Being good at *prompting* is a core component of building agents. And *engineering* is a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of *product sense and product skills* as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of *machine learning* that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the **agent engineer**. LangChain exists to support the agent engineer.
 
-There's a lot of product sense and product skills as well. So this is similar to the to the product engineer before, but now when we're building these agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill.
-
-And finally, there's some aspects of machine learning that are involved. So most prominently with evals, we see this being a great way to test and and and measure these agents and capture the the non-determinism with with some metrics over time. And there's other things like fine-tuning as well.
-
-And the the combination of all of these skills has really burged into what we see being the **agent engineer**. And so this combines different aspects of all of these. And it's early on so this is still being defined how much and and and which of these areas are important but we see this new profile of *builder* which combines all of these representing the the the agent engineer.
-
-### LangChain exists to support the agent engineer
-
-one question that we ask ourselves is
-
-- what will the agents of the future look like?
+## 💡What will the agents of the future look like?
 
 We want to see what those agents look like and then build tools to help build those agents.
 as we think about what these agents look like, there are a few beliefs that we have. And so I want to walk through three of them which we think are more kind of like in the present now and then three of them which we think are are in the future.
