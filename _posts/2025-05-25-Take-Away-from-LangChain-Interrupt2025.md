@@ -10,20 +10,20 @@ tags: [LangChain, Agent]
 
 > LLMs are amazing and super powerful. They can transform the types of applications that we can build. And there's a lot of tooling that needs to be built around them to really help us take advantage of all their capabilities.
 
-## 🤖️The ingredients of building agents
+### 🤖️The ingredients of building agents
 
 - Prompting
 - Engineering
 - Product(Product sense & Product skills)
 - Machine learning
 
-<div>
+<div align = "center">
 <img src="/assets/img/langchain_interrupt_2025/ingredients.png" width = "400" alt="ingredients" align=center />
 </div>
 
-Being good at *prompting* is a core component of building agents. And *engineering* is a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of *product sense and product skills* as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of *machine learning* that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the **agent engineer**. LangChain exists to support the agent engineer.
+Being good at ***Prompting*** is a core component of building agents. And ***Engineering*** is a core component. There is a lot of engineering skills that go into building reliable agents. Whether it's the tools that they're using and interacting with, whether it's the patterns that they're using to to do the data pipelines that bring the context to the LLM at the right point of time, whether it's the deployment, there's a lot of engineering that goes into building agents. There's a lot of ***Product sense and Product skills*** as well. This is similar to the product engineer before, but now when we're building agents, we're often building them to do workflows that a human or a group of humans would do. And so having the product sense and intuition and skill to understand those flows and then try to replicate them with an agent is a really important skill. And finally, there's some aspects of ***Machine Learning*** that are involved. So most prominently with evals, we see this being a great way to test and and measure these agents and capture the the non-determinism with some metrics over time. And there's other things like fine-tuning as well. And the combination of all of these skills has really burged into what we see being the ***Agent Engineer***. LangChain exists to support the agent engineer.
 
-## 💡What will the agents of the future look like?
+### 💡What will the agents of the future look like?
 
 We want to see what those agents look like and then build tools to help build those agents.
 as we think about what these agents look like, there are a few beliefs that we have. And so I want to walk through three of them which we think are more kind of like in the present now and then three of them which we think are are in the future.
