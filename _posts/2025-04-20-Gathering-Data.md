@@ -1,0 +1,12 @@
+---
+layout: post
+title: AI版“作业帮”
+subtitle: 基于Dify AI，DeepSeek AI Agent开发
+cover-img: /assets/img/ai_homework.jpg
+thumbnail-img: /assets/img/ai_homework.jpg
+tags: [web scraping]
+comments: true
+---
+
+
+AI版“作业帮”. 待更新... ;)

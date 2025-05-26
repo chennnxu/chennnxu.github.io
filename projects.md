@@ -6,6 +6,7 @@ subtitle: Get hands dirty 无他，唯手熟尔
 
 ---
 
+11 **基于Dify AI版“作业帮”** [link]  
 10 **ChatPDF with LangChain and DeepSeek** [Link](https://github.com/chennnxu/QnAsystem-LLM-RAG.git)  
 9 Build a Modern Computer from First Principles [ongoing]  
 8 **Microsoft AI-102 Azure AI Engineer Associate 14 May,2024** [Link](https://learn.microsoft.com/api/credentials/share/en-us/ChenXu-1920/4B84907DFE809E15?sharingId=BAC4477B0A87D80B)  
