@@ -8,7 +8,7 @@ subtitle: 基于LangChain的LLM应用开发
 tags: [LLMs, LangChain]
 ---
 
-Get a taste of LangChain's framework and leverage powerful langgauge models to build applications.
+Get a taste of LangChain's framework and leverage powerful language models to build applications.
 
 ### TOC
 
@@ -20,4 +20,4 @@ Get a taste of LangChain's framework and leverage powerful langgauge models to b
 
 ### Resources
 
-- [LangChain for LLM Application Development | Harrison Chase, Andrew Ng | DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [LangChain for LLM Application Development - Harrison Chase, Andrew Ng - DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
