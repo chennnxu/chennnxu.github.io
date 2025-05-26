@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hugging Face & MLflow
+title: Hugging Face & MLflow & LLMOps
 # subtitle: MLflow
 cover-img: /assets/img/hf-logo-with-title.png
 tags: [ML, MLOps]
@@ -87,3 +87,45 @@ mlflow run
 [MLflow document](https://mlflow.org/docs/latest/introduction/index.html)  
 [MLflow Projects](https://mlflow.org/docs/latest/projects.html)  
 [MLflow Models](https://mlflow.org/docs/latest/models.html)
+
+## LLMOps Key Terms
+
+**Tokenizer** - The process of splitting text into smaller chunks or "tokens" and assigning each one a number.  
+**Encoding** - Converting the text tokens into numeric representations.  
+**Probability machine** - How LLMs work by predicting the probability of the next token based on the previous ones.  
+**Fine-tuning** - Further training a pretrained LLM on more specific data to adapt it to a particular task.  
+**Prompt engineering** - Crafting the input text carefully to get better results from an LLM.  
+**Retrieval augmentation** - Combining search/retrieval with an LLM to improve results.  
+**Risk mitigation** - Strategies like prompt engineering and fine-tuning to reduce risks of using LLMs.  
+**Foundation model** - A large pretrained deep learning model that can be adapted to other tasks.  
+**Repurposing** - Using a foundation model for a task different than its original purpose.  
+**Code assistant** - An example application built by fine-tuning a foundation model for coding.  
+**Azure OpenAI Service** - Allows using OpenAI models like GPT-3 on the Microsoft Azure cloud.  
+**Inference API** - Using a trained model to generate predictions/outputs from new data.  
+**Local model** - Running an AI model like GPT-3 directly on your own computer.  
+**LAMA-file** - A project from Mozilla to easily run models locally.  
+**Interactive API** - Calling the cloud service API to get outputs from the deployed model.  
+**Prompt engineering** - The practice of carefully crafting prompts to provide context and get better responses from AI systems.  
+**Context** - Additional background information provided in a prompt to help the AI understand and provide a more relevant response.  
+**Zero shot prompting** - Providing an instruction without any examples to generate a response.  
+**One shot prompting** - Providing one example along with an instruction to guide the AI's response.  
+**Few shot prompting** - Providing two or more examples along with an instruction to guide the AI's response.  
+**Interface** - The means of interacting with the AI system, like a chat or text box.  
+**Context overload** - Providing too much context and instructions can overwhelm the AI, resulting in poor or incomplete responses.  
+**Chain of thought** - Prompting the AI to explain its reasoning step-by-step. Useful for getting more detailed responses.  
+**Rephrasing** - Restating or rewording a prompt to get better results from the AI. Helps clarify intent.  
+**API-based application**: An application that interacts with other software components using Application Programming Interfaces (APIs) for data exchange, communication, or functionality enhancement.[Example](https://github.com/alfredodeza/azure-chat-demo)  
+**Embedded model application**: A machine learning model integrated within an application, allowing the app to perform specific tasks without relying on external services.[Example](https://github.com/alfredodeza/huggingface-deploy-azure.git)  
+**Multi-model application**: An AI system that utilizes multiple models tailored to different functions or domains, improving efficiency and performance in various scenarios.  
+**HTTP API**: An interface for exchanging data between systems using Hypertext Transfer Protocol (HTTP) requests and responses over the internet.  
+**Azure OpenAI**: A cloud-based platform by Microsoft that offers access to large language models through an easy-to-use API, enabling developers to build AI applications with advanced text generation capabilities.  
+**Separation of concerns**: A design principle that suggests dividing complex systems into smaller, independent components responsible for specific functions, improving maintainability and scalability.  
+**Scale/Scalability**: The ability of an application or system to handle increasing workloads efficiently by adding resources (e.g., computing power, storage) without significantly impacting performance or functionality.  
+**Retrieval augmented generation (RAG)**: A technique in AI where a large language model accesses new or recent data outside its training set to provide better answers and improved results.[Example](https://github.com/alfredodeza/azure-rag.git)  
+
+### Open Source LLMOps Solutions
+
+**Model license**- The license terms that determine how a machine learning model can be used, modified and shared. Common open source licenses for models include Apache, MIT and Creative Commons. The license affects what you can do commercially with a model.  
+**Large language model** - A neural network trained on massive amounts of text data to generate human-like text. Large language models have billions of parameters and are able to perform a variety of natural language tasks like translation, summarization, and question answering.  
+**Small language model** - A large language model with fewer parameters, requiring less compute resources than larger models. Smaller models can be more practical to deploy but may be less capable.  
+**Transformers library** - An open source Python library from Hugging Face for leveraging machine learning models, particularly natural language models. Provides a simple, unified API for using models from different frameworks like PyTorch and TensorFlow.  
