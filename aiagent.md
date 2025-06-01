@@ -11,6 +11,7 @@ subtitle: Opinions
 [Building AI Agents](https://www.buildingaiagents.ai/) - Biweekly newsletter  
 [TuringPost](https://www.turingpost.com/) - Newsletter exploring AI & ML  
 [Bloomberg](https://www.bloomberg.com/technology) - Bloomberg Tech News  
+[AI Engineer World's Fair](https://www.ai.engineer/)  
 
 ---
 
