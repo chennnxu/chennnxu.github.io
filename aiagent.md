@@ -20,6 +20,7 @@ subtitle: Opinions
 [CS 222: AI Agents and Simulations](https://joonspk-research.github.io/cs222-fall24/index.html) - Stanford University  
 [CS294/194-196 Large Language Model Agents](https://llmagents-learning.org/f24) - UC Berkeley  
 [CS294/194-280 Advanced Large Language Model Agents](https://llmagents-learning.org/sp25) - UC Berkeley  
+[CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) - Stanford University  
 <!-- [LLM智能应用开发](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310) - Nanjing University   -->
 [动手学大模型Dive into LLMs](https://github.com/Lordog/dive-into-llms) - Shanghai Jiao Tong University  
 
