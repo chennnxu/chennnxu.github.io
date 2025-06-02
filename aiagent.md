@@ -15,6 +15,12 @@ subtitle: Opinions
 
 ---
 
+#### 评估
+
+[xbench](https://xbench.org/) - Evergreen, contamination-free real-world, domain-specific AI evaluation framework  
+
+---
+
 #### 📚
 
 [CS 222: AI Agents and Simulations](https://joonspk-research.github.io/cs222-fall24/index.html) - Stanford University  
