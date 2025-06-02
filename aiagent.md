@@ -47,3 +47,8 @@ subtitle: Opinions
 
 ---
 
+#### 😄
+
+[The Way of Code](https://www.thewayofcode.com/) - Based on Lao Tzu, by Rick Rubin in collaboration with Anthropic  
+
+---
