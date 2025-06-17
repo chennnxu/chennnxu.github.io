@@ -4,6 +4,7 @@ title: ALGORITHMS
 subtitle: Just for fun
 ---
 
+7 **Patience Sorting** [Link](https://en.wikipedia.org/wiki/Patience_sorting)  
 6 **KMP Algorithm** [Link](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)  
 5 **Kahn's Algorithm** [Link](https://en.wikipedia.org/wiki/Topological_sorting)  
 4 **Kadane's Algorithm** [Link](https://en.wikipedia.org/wiki/Maximum_subarray_problem)  
