@@ -8,7 +8,7 @@ subtitle: without hot tools/frameworks
 tags: [AI Agent]
 ---
 
-## Resource
+## Reading
 
 [Building Effective Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)  
 
