@@ -5,7 +5,7 @@ subtitle: THE AI AGENT CONFERENCE BY LANGCHAIN
 cover-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 thumbnail-img: /assets/img/langchain_interrupt_2025/langchain_interrupt_2025.png
 # share-img: /assets/img/path.jpg
-tags: [LangChain, Agent]
+tags: [LangChain, AI Agent]
 ---
 
 LLMs are amazing and super powerful. They can transform the types of applications that we can build. And there's a lot of tooling that needs to be built around them to really help us take advantage of all their capabilities.
