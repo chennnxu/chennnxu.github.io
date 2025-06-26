@@ -4,6 +4,7 @@ title: ALGORITHMS
 subtitle: Just for fun
 ---
 
+10 **Quicksort** [Link](https://en.wikipedia.org/wiki/Quicksort)  
 9 **Dutch national flag problem** [Link](https://en.wikipedia.org/wiki/Dutch_national_flag_problem)  
 8 **Manacher's Algorithm** [Link](https://en.wikipedia.org/wiki/Longest_palindromic_substring)  
 7 **Patience Sorting** [Link](https://en.wikipedia.org/wiki/Patience_sorting)  
